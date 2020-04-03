@@ -1,10 +1,18 @@
+from nltk.stem import PorterStemmer
+from nltk.corpus import stopwords
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.base import BaseEstimator, TransformerMixin
+import pandas as pd
+import numpy as np
+import collections
+import matplotlib.pyplot as plt
+import seaborn as sns
 import re
 import string
-from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
+import nltk
 
 
-class preprocessing:
+class preprocessing(BaseEstimator, TransformerMixin):
     def remove_mentions(self, input_text):
         return re.sub(r'@\w+', '', input_text)
 
@@ -12,13 +20,11 @@ class preprocessing:
         return re.sub(r'http.?://[^\s]+[\s]?', '', input_text)
 
     def emoji_oneword(self, input_text):
-        # By compressing the underscore, the emoji is kept as one word
         return input_text.replace('_', '')
 
     def remove_punctuation(self, input_text):
-        # Make translation table
         punct = string.punctuation
-        trantab = str.maketrans(punct, len(punct)*' ')  # Every punctuation symbol will be replaced by a space
+        trantab = str.maketrans(punct, len(punct)*' ')
         return input_text.translate(trantab)
 
     def remove_digits(self, input_text):
@@ -29,7 +35,6 @@ class preprocessing:
 
     def remove_stopwords(self, input_text):
         stopwords_list = stopwords.words('english')
-        # Some words which might indicate a certain sentiment are kept via a whitelist
         whitelist = ["n't", "not", "no"]
         words = input_text.split()
         clean_words = [word for word in words if (word not in stopwords_list or word in whitelist) and len(word) > 1]
@@ -40,6 +45,17 @@ class preprocessing:
         words = input_text.split()
         stemmed_words = [porter.stem(word) for word in words]
         return " ".join(stemmed_words)
+
+    def get_word_counter(self, arr):
+        cv = CountVectorizer()
+        bow = cv.fit_transform(arr)
+        word_freq = dict(zip(cv.get_feature_names(), np.asarray(bow.sum(axis=0)).ravel()))
+        word_counter = collections.Counter(word_freq)
+        word_counter_df = pd.DataFrame(word_counter.most_common(20), columns=['word', 'freq'])
+        print(word_counter_df)
+        fig, ax = plt.subplots(figsize=(12, 10))
+        sns.barplot(x="word", y="freq", data=word_counter_df, palette="PuBuGn_d", ax=ax)
+        plt.show()
 
     def fit(self, X, y=None, **fit_params):
         return self
