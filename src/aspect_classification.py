@@ -3,7 +3,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.multiclass import OneVsRestClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, classification_report
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
@@ -46,9 +46,13 @@ class aspect_classification:
         self.y_val = MultiLabelBinarizer().fit_transform(self.y_val)
 
     def evaluate(self):
-        print(' f1           = %s' % (f1_score(self.y_val, self.model.predict(self.X_val), average=None)))
-        print(' precision    = %s' % (precision_score(self.y_val, self.model.predict(self.X_val), average=None)))
-        print(' recall       = %s' % (recall_score(self.y_val, self.model.predict(self.X_val), average=None)))
+        target = self.y_val
+        prediction = self.model.predict(self.X_val)
+
+        print(' f1           = %s' % (f1_score(target, prediction, average=None)))
+        print(' precision    = %s' % (precision_score(target, prediction, average=None)))
+        print(' recall       = %s' % (recall_score(target, prediction, average=None)))
+        print(classification_report(target, prediction, zero_division=1))
 
     def testPrint(self):
         print()
