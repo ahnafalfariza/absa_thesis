@@ -25,6 +25,7 @@ class aspect_classification:
             ('clf', OneVsRestClassifier(
                 LogisticRegression()))
         ])
+        self.model = None
 
     def convert_targets(self, y):
         target_names = ['#GENERAL', '#FEATURE', '#PRICE', '#CAMERA', '#DESIGN#SCREEN']
@@ -41,15 +42,13 @@ class aspect_classification:
         mlb = MultiLabelBinarizer()
         target = mlb.fit_transform(self.y_train)
 
-        model = self.pipeline.fit(self.X_train, target)
+        self.model = self.pipeline.fit(self.X_train, target)
         self.y_val = MultiLabelBinarizer().fit_transform(self.y_val)
-        print("f1 = %s" % (f1_score(self.y_val, model.predict(self.X_val), average=None)))
-        print("precision = %s" % (precision_score(self.y_val, model.predict(self.X_val), average=None)))
-        print("recall = %s" % (recall_score(self.y_val, model.predict(self.X_val), average=None)))
 
-    def test(self):
-        for i in self.y:
-            print(i)
+    def evaluate(self):
+        print(' f1           = %s' % (f1_score(self.y_val, self.model.predict(self.X_val), average=None)))
+        print(' precision    = %s' % (precision_score(self.y_val, self.model.predict(self.X_val), average=None)))
+        print(' recall       = %s' % (recall_score(self.y_val, self.model.predict(self.X_val), average=None)))
 
     def testPrint(self):
         print()
@@ -58,3 +57,4 @@ class aspect_classification:
 if __name__ == "__main__":
     test = aspect_classification()
     test.train()
+    test.evaluate()
