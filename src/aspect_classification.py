@@ -43,10 +43,9 @@ class aspect_classification:
         target = mlb.fit_transform(self.y_train)
 
         self.model = self.pipeline.fit(self.X_train, target)
-        self.y_val = MultiLabelBinarizer().fit_transform(self.y_val)
 
     def evaluate(self):
-        target = self.y_val
+        target = MultiLabelBinarizer().fit_transform(self.y_val)
         prediction = self.model.predict(self.X_val)
 
         print(' f1           = %s' % (f1_score(target, prediction, average=None)))
