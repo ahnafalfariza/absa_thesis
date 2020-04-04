@@ -6,11 +6,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, classification_report
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import CountVectorizer
+from clean_text import CleanText
 import numpy as np
 import pandas as pd
 
 
-class aspect_classification:
+class AspectClassification:
     def __init__(self):
         self.data = pd.read_csv('../data/ac_dataset.csv', index_col=0)
         self.X = self.data['Reviews']
@@ -21,6 +22,7 @@ class aspect_classification:
         )
 
         self.pipeline = Pipeline([
+            ('preprocess', CleanText()),
             ('vect', CountVectorizer(ngram_range=(1, 2))),
             ('clf', OneVsRestClassifier(
                 LogisticRegression()))
@@ -42,6 +44,8 @@ class aspect_classification:
         mlb = MultiLabelBinarizer()
         target = mlb.fit_transform(self.y_train)
 
+        print(type(self.X_train))
+        print(type(target))
         self.model = self.pipeline.fit(self.X_train, target)
 
     def evaluate(self):
@@ -58,6 +62,6 @@ class aspect_classification:
 
 
 if __name__ == "__main__":
-    test = aspect_classification()
+    test = AspectClassification()
     test.train()
     test.evaluate()
