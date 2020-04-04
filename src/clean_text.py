@@ -12,12 +12,12 @@ import string
 import nltk
 
 
-class preprocessing(BaseEstimator, TransformerMixin):
+class CleanText(BaseEstimator, TransformerMixin):
     def remove_mentions(self, input_text):
-        return re.sub(r'@\w+', '', input_text)
+        return re.sub(r'@\w+', '', str(input_text))
 
     def remove_urls(self, input_text):
-        return re.sub(r'http.?://[^\s]+[\s]?', '', input_text)
+        return re.sub(r'http.?://[^\s]+[\s]?', '', str(input_text))
 
     def emoji_oneword(self, input_text):
         return input_text.replace('_', '')
@@ -28,7 +28,7 @@ class preprocessing(BaseEstimator, TransformerMixin):
         return input_text.translate(trantab)
 
     def remove_digits(self, input_text):
-        return re.sub(' \d+', '', input_text)
+        return re.sub(' \d+', '', str(input_text))
 
     def to_lower(self, input_text):
         return input_text.lower()
@@ -64,3 +64,11 @@ class preprocessing(BaseEstimator, TransformerMixin):
         clean_X = X.apply(self.remove_mentions).apply(self.remove_urls).apply(self.emoji_oneword).apply(
             self.remove_punctuation).apply(self.remove_digits).apply(self.to_lower).apply(self.remove_stopwords).apply(self.stemming)
         return clean_X
+
+
+if __name__ == "__main__":
+    data = pd.read_csv('../data/ac_dataset.csv', index_col=0)
+    df = data['Reviews']
+    pp = CleanText()
+    preprocessed = pp.fit_transform(data['Reviews'])
+    pp.get_word_counter(preprocessed)
