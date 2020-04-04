@@ -44,8 +44,6 @@ class AspectClassification:
         mlb = MultiLabelBinarizer()
         target = mlb.fit_transform(self.y_train)
 
-        print(type(self.X_train))
-        print(type(target))
         self.model = self.pipeline.fit(self.X_train, target)
 
     def evaluate(self):
