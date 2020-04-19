@@ -18,11 +18,11 @@ class AspectClassification:
         self.y = self.convert_targets(self.data.drop(['Reviews'], axis=1))
 
         self.X_train, self.X_val, self.y_train, self.y_val = train_test_split(
-            self.X, self.y, train_size=0.75
+            self.X, self.y, train_size=0.75, random_state=0, shuffle=False
         )
 
         self.pipeline = Pipeline([
-            ('preprocess', CleanText()),
+            # ('preprocess', CleanText()),
             ('vect', CountVectorizer(ngram_range=(1, 2))),
             ('clf', OneVsRestClassifier(
                 LogisticRegression()))
@@ -53,10 +53,7 @@ class AspectClassification:
         print(' f1           = %s' % (f1_score(target, prediction, average=None)))
         print(' precision    = %s' % (precision_score(target, prediction, average=None)))
         print(' recall       = %s' % (recall_score(target, prediction, average=None)))
-        print(classification_report(target, prediction, zero_division=1))
-
-    def testPrint(self):
-        print()
+        print(classification_report(target, prediction, target_names=['#GENERAL', '#FEATURE', '#PRICE', '#CAMERA', '#DESIGN#SCREEN'], zero_division=1))
 
 
 if __name__ == "__main__":
