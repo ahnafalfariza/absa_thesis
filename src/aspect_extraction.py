@@ -74,7 +74,7 @@ class AspectExtraction:
         X = [sent2features(s) for s in sentences]
         y = [sent2labels(s) for s in sentences]
 
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=0)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=0)
 
         crf = sklearn_crfsuite.CRF(
             algorithm='lbfgs',
