@@ -22,7 +22,7 @@ class AspectClassification:
         )
 
         self.pipeline = Pipeline([
-            # ('preprocess', CleanText()),
+            ('preprocess', CleanText()),
             ('vect', CountVectorizer(ngram_range=(1, 2))),
             ('clf', OneVsRestClassifier(
                 LogisticRegression()))
