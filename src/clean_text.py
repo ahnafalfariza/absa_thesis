@@ -5,8 +5,6 @@ from sklearn.base import BaseEstimator, TransformerMixin
 import pandas as pd
 import numpy as np
 import collections
-import matplotlib.pyplot as plt
-import seaborn as sns
 import re
 import string
 import nltk
@@ -56,21 +54,6 @@ class CleanText(BaseEstimator, TransformerMixin):
         lemmatized_words = [lemmatizer.lemmatize(word) for word in words]
         return " ".join(lemmatized_words)
 
-    def get_word_counter(self, arr):
-        cv = CountVectorizer()
-        bow = cv.fit_transform(arr)
-        word_freq = dict(
-            zip(cv.get_feature_names(), np.asarray(bow.sum(axis=0)).ravel())
-        )
-        word_counter = collections.Counter(word_freq)
-        word_counter_df = pd.DataFrame(
-            word_counter.most_common(20), columns=["word", "freq"]
-        )
-        print(word_counter_df)
-        fig, ax = plt.subplots(figsize=(12, 10))
-        sns.barplot(x="word", y="freq", data=word_counter_df, palette="PuBuGn_d", ax=ax)
-        plt.show()
-
     def fit(self, X, y=None, **fit_params):
         return self
 
@@ -84,7 +67,7 @@ class CleanText(BaseEstimator, TransformerMixin):
             .apply(self.to_lower)
             .apply(self.lemmatization)
             .apply(self.remove_stopwords)
-            # .apply(self.stemming)
+            .apply(self.stemming)
         )
         return clean_X
 

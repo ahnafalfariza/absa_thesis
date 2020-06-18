@@ -16,7 +16,6 @@ class SentimentAnalysis:
         self.X, self.y = self.classify_data(self.data)
         self.target_names = ['#GENERAL', '#FEATURE', '#PRICE', '#CAMERA', '#DESIGN#SCREEN']
         self.pipeline = Pipeline([
-            # ('preprocess', CleanText()),
             ('vect', CountVectorizer(ngram_range=(1, 1))),
             ('clf', LogisticRegression())
         ])
@@ -70,55 +69,30 @@ class SentimentAnalysis:
                 # print('iteration', j)
                 model = self.train(self.X[i][train_index], self.y[i][train_index])
                 accuracy, precision, recall, f1, cr = self.evaluate(model, self.X[i][test_index], self.y[i][test_index])
-                # print(cr)
                 totalAcc.append(accuracy)
                 totalPrec.append(precision)
                 totalRec.append(recall)
                 totalF1.append(f1)
                 j += 1
-                # X_train, X_val, y_train, y_val = self.split_train_test(self.X[i], self.y[i])
-                # self.model.append(self.pipeline.fit(X_train, y_train))
-                # prediction = self.model[i].predict(X_val)
-                # print('\nTarget=%s' % self.target_names[i])
-                # print(pd.DataFrame({'review': X_val, 'target': y_val, 'prediction': prediction}))
-                # print(' f1           = %s' % (f1_score(y_val, prediction, average=None)))
-                # print(' precision    = %s' % (precision_score(y_val, prediction, average=None)))
-                # print(' recall       = %s' % (recall_score(y_val, prediction, average=None)))
-                # print(classification_report(y_val, prediction, zero_division=1))
 
-            self.a.append(totalAcc)
-            self.p.append(totalPrec)
-            self.r.append(totalRec)
-            self.f.append(totalF1)
-            # print('acc', self.target_names[i], np.array(totalAcc))
-            # print('pre', self.target_names[i], np.array(totalPrec))
-            # print('rec', self.target_names[i], np.array(totalRec))
-            # print('f1', self.target_names[i], np.array(totalF1))
-
-        print('a', totalAcc)
-        print('p', totalPrec)
-        print('r', totalRec)
-        print('f', totalF1)
+            print(self.target_names[i])
+            print('pre', self.get_average(np.array(totalPrec)))
+            print('rec', self.get_average(np.array(totalRec)))
+            print('f1', self.get_average(np.array(totalF1)))
+            print()
 
     def train(self, input_value, target_value):
         model = self.pipeline.fit(input_value, target_value)
         return model
 
     def get_average(self, metrics):
-        # return np.average(np.array(metrics), axis=0)
         pos, neg = 0, 0
         for a in metrics:
-            # print(len(a))
-            if(type(a) == list):
+            if(len(a)==2):
                 neg += a[0]
                 pos += a[1]
-            else:
-                accuracy = 5
 
-        # print('pos', pos)
-        # print('neg', neg)
         return [neg/len(metrics), pos/len(metrics)]
-
 
 if __name__ == "__main__":
     sa = SentimentAnalysis()

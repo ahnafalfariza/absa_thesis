@@ -49,12 +49,9 @@ class AspectClassification:
             totalPrec.append(precision)
             totalRec.append(recall)
             totalF1.append(f1)
-            # print()
-            # print(eli5.explain_weights(model, top=5))
-            # print()
             i += 1
 
-        print(confTot)
+        # print(confTot)
         print('acc', self.get_average(totalAcc))
         print('pre', self.get_average(totalPrec))
         print('rec', self.get_average(totalRec))

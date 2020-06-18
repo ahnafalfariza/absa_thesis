@@ -108,7 +108,7 @@ class AspectExtraction:
             totalF1.append(f1)
             i += 1
 
-        print(totalconf)
+        # print(totalconf)
         print('acc', self.get_average(totalAcc))
         print('pre', self.get_average(totalPrec))
         print('rec', self.get_average(totalRec))
