@@ -176,19 +176,26 @@ def main(args):
     say(table(["confidence", "answers", "accuracy"], [[str(b), int(c), m] for b, (c, m) in g.iterrows()]))
 
     # ---- 5. Label audit -----------------------------------------------------------------
-    audit = []
+    # Every disagreement goes to label_diff.csv; the confident ones also go to label_audit.csv.
+    diff = []
     for r in df.itertuples():
         d = r._asdict()
         for k in KEYS:
             p, g_m = d[f"p_mention_{k}"], d[f"gold_mention_{k}"]
-            if (p >= 0.9 and not g_m) or (p <= 0.1 and g_m):
-                audit.append({"id": r.id, "aspect": LABEL[k], "kind": "mention", "gold": g_m,
-                              "jev": round(p, 3), "review": r.review})
+            if (p >= 0.5) != g_m:
+                diff.append({"id": r.id, "aspect": LABEL[k], "kind": "mention",
+                             "direction": "jev_missed" if g_m else "jev_extra", "gold": g_m,
+                             "jev": round(p, 3), "confident": p >= 0.9 or p <= 0.1, "review": r.review})
             gs = d[f"gold_sentiment_{k}"]
-            if isinstance(gs, str) and d[f"polarity_{k}"] != gs and d[f"polarity_conf_{k}"] >= 0.9:
-                audit.append({"id": r.id, "aspect": LABEL[k], "kind": "sentiment", "gold": gs,
-                              "jev": f"{d[f'polarity_{k}']} ({d[f'polarity_conf_{k}']:.2f})", "review": r.review})
-    audit = pd.DataFrame(audit)
+            if isinstance(gs, str) and d[f"polarity_{k}"] != gs:
+                conf = d[f"polarity_conf_{k}"]
+                diff.append({"id": r.id, "aspect": LABEL[k], "kind": "sentiment",
+                             "direction": f"{gs}->{d[f'polarity_{k}']}", "gold": gs,
+                             "jev": f"{d[f'polarity_{k}']} ({conf:.2f})", "confident": conf >= 0.9,
+                             "review": r.review})
+    diff = pd.DataFrame(diff).sort_values(["aspect", "kind", "direction", "id"])
+    diff.to_csv(HERE / "label_diff.csv", index=False)
+    audit = diff[diff["confident"]][["id", "aspect", "kind", "gold", "jev", "review"]]
     audit.to_csv(HERE / "label_audit.csv", index=False)
     say(f"\n## 5. Label audit\n\n{len(audit)} confident disagreements written to `label_audit.csv`. "
         "Read a sample before blaming the model: on a dataset labelled by one person, a share of "

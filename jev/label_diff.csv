@@ -1,0 +1,576 @@
+id,aspect,kind,direction,gold,jev,confident,review
+53,#CAMERA,mention,jev_extra,False,0.82,False,4K at 60fps
+104,#CAMERA,mention,jev_extra,False,0.62,False,Great specs!
+161,#CAMERA,mention,jev_extra,False,0.87,False,I've actually done research on the back camera sensor size on the iPhone 10... and believe it is going to be a 1/2 inch camera sensor size... which is bigger than Samsung camera sensors and will put it ahead of Samsung cameras
+231,#CAMERA,mention,jev_extra,False,0.94,True,"I am very disappointed with apple this year, I bought an iphone x 256 gb on the 16th of this month and the Face ID cannot register my face or any other face and the selfie portrait mode is also not working. I contacted apple support team but they canÂ’ Fix it even though they run a diagnostic on my phone. The apple told me that nothing is wrong with the hardware."
+351,#CAMERA,mention,jev_extra,False,0.8,False,The resolution is fine.
+359,#CAMERA,mention,jev_extra,False,0.59,False,The specs are quite literally the best on the market
+511,#CAMERA,mention,jev_extra,False,0.97,True,"this is an absolutely overpriced shit.... even after this huge price tag what you'll get is 18w fast charging when rest of the world is using 25w or higher, 2x optical zoom when other companies have reached 5x,10x,....seriously apple...are you kidding?"
+565,#CAMERA,mention,jev_extra,False,0.93,True,It remind of cheap brands phone having 3 or 4 camera if this is the real pictures iphone shares must be falling rapidly
+602,#CAMERA,mention,jev_extra,False,0.96,True,"Radiation level is beyond threshold in the new iPhone 11 (Pro too), even without any data connection. Also, support forums at apple site have gone nuts over heating issues, draining batteries, blurry wide-angle camera, etc. Even a premium brand is still far from perfection."
+643,#CAMERA,mention,jev_extra,False,0.61,False,ugly designed camera
+713,#CAMERA,mention,jev_extra,False,0.72,False,Spider's eyes low spec. Worst update.
+716,#CAMERA,mention,jev_extra,False,0.62,False,The most advanced ugliest camera ever on a phone
+782,#CAMERA,mention,jev_extra,False,0.79,False,its display is among the best in the market in 2019 and so are its cameras and build quality
+817,#CAMERA,mention,jev_extra,False,0.86,False,I prefer to see better resolution
+836,#CAMERA,mention,jev_extra,False,0.95,True,man these specifications are not so impressive should've made that battery 4k with the latest rivals giving more lifespan and that megapixels is not high
+863,#CAMERA,mention,jev_extra,False,0.96,True,Front camera location - bad. Top and right part of the screen from front camera seems to be useless! Only to drain battery! am I right? And no big improvements over S9 camera. Only wide angle and zoom lens were added. What about sensor? is it the same as on S9?
+988,#CAMERA,mention,jev_extra,False,0.9,True,Who will buy this piece of waste with such low resolution
+1017,#CAMERA,mention,jev_extra,False,0.7,False,"can't play 1080p content because of its resolution, shame"
+1025,#CAMERA,mention,jev_extra,False,0.85,False,"I used to be skeptical about the resolution being 720p but once i bought and use it, you can't even tell the difference."
+1053,#CAMERA,mention,jev_extra,False,0.84,False,to me 720p is good enough
+1055,#CAMERA,mention,jev_extra,False,0.79,False,720p for 2018 phone is ridiculous
+1062,#CAMERA,mention,jev_extra,False,0.98,True,"The camera on the XR has a larger sensor than the iPhone cameras from last year, but loses the telephoto lens. Still, the larger sensor is a worthwhile trade-off IMO."
+1064,#CAMERA,mention,jev_extra,False,0.97,True,"It has telephoto, but the main camera of X is worse."
+1066,#CAMERA,mention,jev_extra,False,0.9,True,Ridiculos low resoultion
+1073,#CAMERA,mention,jev_extra,False,0.71,False,Only hd
+21,#CAMERA,mention,jev_missed,True,0.13,False,Look at that ugly camera ; looks like traffic lights . The ugliest phone ever . Gzzz
+126,#CAMERA,mention,jev_missed,True,0.08,True,"This phone looks interesting, its specs look very attractive, but it's not a device for small pockets and was never intended to be. I see there it's some kind of fashion to remove the middle button and extend the display. All right and fine, until we look at the display design, it looks like some kind of ass with those top display margins that show the status bar in the middle with the mic and camera.Again, it's expensive for what it brings.I say this especially by the display design and, of course, the 3.5 inch jack, that was never brought back."
+198,#CAMERA,mention,jev_missed,True,0.02,True,"Iphone X, failed design, overpriced, not so bezel-less, so sorry Apple, this time is the Era of Android phones."
+288,#CAMERA,mention,jev_missed,True,0.02,True,Best Phone i have ever used
+387,#CAMERA,mention,jev_missed,True,0.43,False,if you look at the camera it looks terrible
+430,#CAMERA,mention,jev_missed,True,0.03,True,would highly recommend it to all people looking for a flagship that would not break their bank
+541,#CAMERA,mention,jev_missed,True,0.39,False,Camera design is bad.
+564,#CAMERA,mention,jev_missed,True,0.19,False,The picture looks good in samsung because they have much better screen resolution and pixels per inch(ppi). Thats the only reason. You can compare
+724,#CAMERA,mention,jev_missed,True,0.45,False,Additional 3rd Camera Lens (Ultra Wide)
+843,#CAMERA,mention,jev_missed,True,0.43,False,The camera should have gone behind the screen.
+920,#CAMERA,mention,jev_missed,True,0.4,False,"i wanted to purchase this device as i love the look, display & camera"
+938,#CAMERA,mention,jev_missed,True,0.13,False,"the led is around the front camera, you just need to activate it."
+1031,#CAMERA,mention,jev_missed,True,0.42,False,It works great and from the processor to the camera i had nothing to say. Honestly I recommend this phone it’s absolutely fabulous. Thanks
+1059,#CAMERA,mention,jev_missed,True,0.35,False,"Xr LCD, one camera, 64 GB, camera bump, NOTCH for 850 euro. NEVER"
+179,#CAMERA,sentiment,positive->negative,positive,negative (0.82),False,it has a better Camera from another phone in this world now.
+422,#CAMERA,sentiment,positive->negative,positive,negative (0.67),False,camera is average
+438,#CAMERA,sentiment,positive->negative,positive,negative (0.98),True,You'll also be giving up the telephoto camera for an ultra-wide angle camera
+497,#CAMERA,sentiment,positive->negative,positive,negative (1.00),True,"12 MP camera sensor again, with 2x optical zoom again... Wow!"
+509,#CAMERA,sentiment,positive->negative,positive,negative (0.72),False,"It's just an iPhone XS with third camera and ""better"" display."
+542,#CAMERA,sentiment,positive->negative,positive,negative (0.99),True,have a better option for the front cameras.
+564,#CAMERA,sentiment,positive->negative,positive,negative (0.33),False,The picture looks good in samsung because they have much better screen resolution and pixels per inch(ppi). Thats the only reason. You can compare
+597,#CAMERA,sentiment,positive->negative,positive,negative (0.87),False,"Got my 11 Pro 512gb today, coming from Xs. Worthy upgrade? Yes absolutely, though i have to admit that wideangle photo is as i expected; not very useful but it could be handy at times. Performance is ofcours extreme, faceid is noticeable faster than Xs, the texture of the back glass is awesome."
+24,#DESIGN#SCREEN,mention,jev_extra,False,0.8,False,No fingerprint in screen? Sad
+33,#DESIGN#SCREEN,mention,jev_extra,False,0.84,False,I like how they made something that already exists on the market and improved it something unique with their knowledge and also how they simplify the process..My only concern is that it doesn't come out in black
+53,#DESIGN#SCREEN,mention,jev_extra,False,0.66,False,4K at 60fps
+62,#DESIGN#SCREEN,mention,jev_extra,False,0.93,True,"Too expensive for the specs, you can find other phones at much cheaper price with higher specs. 3gb ram seriously? flagship device at only 3gb ram..still bad battery ..subpar design. Only goodthing I can say would probably the iOs software looks and performs better."
+72,#DESIGN#SCREEN,mention,jev_extra,False,0.85,False,"finally, best phone for all iphones(using amoled etc)!!!... iphone x has the same feature as s8.."
+111,#DESIGN#SCREEN,mention,jev_extra,False,0.85,False,So... they finally caught up in some 2014 android features and added a bigger screen. Innovation!
+123,#DESIGN#SCREEN,mention,jev_extra,False,0.98,True,"i like ios, and apple products, but this one is gross, its ok to pay a big price if its feature pack, but paying a big price just for a bezelless design? its gross, sorry apple, im not a sheep yet, waiting for next year again for some worthy phone to throw a $$$"
+183,#DESIGN#SCREEN,mention,jev_extra,False,0.92,True,FaceID works like a charm. I dont miss the home button much. I kind of like the notch as it divides the battery from the others notification to the left.
+191,#DESIGN#SCREEN,mention,jev_extra,False,0.92,True,Apple x not as well as we thought. Home button is the breath of apple apple 8 is good but older design is not acceptable. Basically apple 8 should have apple x design. Then it would be surely popular at every where. iOS 11 firmware should be improve with give option for direct call in third party dialer. It's very annoying ask confirmation call. Sometimes it's not good. Hope apple will update it sure.
+209,#DESIGN#SCREEN,mention,jev_extra,False,0.52,False,"my new iPhone x just arrived,, smooth ,, fast and lovely,, no lag what so ever,, can use it with one hand"
+217,#DESIGN#SCREEN,mention,jev_extra,False,0.77,False,It's a stunning device in so many ways.
+221,#DESIGN#SCREEN,mention,jev_extra,False,0.56,False,Getting those issues is around same than winning lottery. Haven't had Any issues and the performance is perfect and with 120hz touch input this thing is supersmooth.
+241,#DESIGN#SCREEN,mention,jev_extra,False,0.94,True,screen is the best
+264,#DESIGN#SCREEN,mention,jev_extra,False,0.71,False,"iphone price is acceptable, but iphone very shameful and also no special feature.......and heavy bulky weight"
+282,#DESIGN#SCREEN,mention,jev_extra,False,0.7,False,"The phone comes a very cohesive package in terms of hardware and software, design and function. Not perfect but no phone is."
+293,#DESIGN#SCREEN,mention,jev_extra,False,0.96,True,I am on the 12.1 IOS update on 10/30/2018. So far I am delighted with my phone. Lots of settings and easy to navigate. The display is sharp and true in color.
+313,#DESIGN#SCREEN,mention,jev_extra,False,0.81,False,Perfect for grip and superb performance and looks apple did an amazing job again
+324,#DESIGN#SCREEN,mention,jev_extra,False,0.62,False,right now iOS does not have a system wide dark theme. but it is rumored that apple will implement dark theme in next release of ios 13 this year.
+343,#DESIGN#SCREEN,mention,jev_extra,False,0.91,True,"No fhd screen,no audio Jack, very small battery, terrible wake up Apple."
+387,#DESIGN#SCREEN,mention,jev_extra,False,0.84,False,if you look at the camera it looks terrible
+445,#DESIGN#SCREEN,mention,jev_extra,False,0.88,False,So nicely built hardware
+454,#DESIGN#SCREEN,mention,jev_extra,False,0.72,False,"Truthfully, the picture quality is good"
+479,#DESIGN#SCREEN,mention,jev_extra,False,0.71,False,its slow charging is really annoying and it doesnt feel original when holding it.
+541,#DESIGN#SCREEN,mention,jev_extra,False,0.92,True,Camera design is bad.
+564,#DESIGN#SCREEN,mention,jev_extra,False,0.96,True,The picture looks good in samsung because they have much better screen resolution and pixels per inch(ppi). Thats the only reason. You can compare
+565,#DESIGN#SCREEN,mention,jev_extra,False,0.6,False,It remind of cheap brands phone having 3 or 4 camera if this is the real pictures iphone shares must be falling rapidly
+567,#DESIGN#SCREEN,mention,jev_extra,False,0.55,False,the real compact phone!!
+584,#DESIGN#SCREEN,mention,jev_extra,False,0.8,False,The Only Advantage in iPhone 11pro is some special camera features and not to forget 800 Nits which is Pretty Awesome for HDR
+589,#DESIGN#SCREEN,mention,jev_extra,False,0.92,True,It does have faster face I'd than my iPhone x but I cannot find any difference in the screens at all. Battery life is not what I thought it would be. There is no way that my iPhone 11 pro would last 4 hours longer than my iPhone x.
+623,#DESIGN#SCREEN,mention,jev_extra,False,0.67,False,Nice Speaker array on the back
+664,#DESIGN#SCREEN,mention,jev_extra,False,0.5,False,Too much Weight
+666,#DESIGN#SCREEN,mention,jev_extra,False,0.54,False,Oh my god. No in display fingerprint.. cost 11 hundreds of dollars..
+693,#DESIGN#SCREEN,mention,jev_extra,False,0.91,True,it looks a great phone
+713,#DESIGN#SCREEN,mention,jev_extra,False,0.63,False,Spider's eyes low spec. Worst update.
+738,#DESIGN#SCREEN,mention,jev_extra,False,0.65,False,New pro max is hefty quarter a kg weight and thicker
+741,#DESIGN#SCREEN,mention,jev_extra,False,0.83,False,"There is very little difference between the 2018 and 2019 devices, both aesthetically and technically."
+748,#DESIGN#SCREEN,mention,jev_extra,False,0.52,False,"why aren't they going for a different thing...because iphone 11 is same as the iphone 10...only the camera structure is differs from the other one...so hoping a bigger difference in the future,,"
+800,#DESIGN#SCREEN,mention,jev_extra,False,0.97,True,"The best phone currently you can get is the Iphone 11 pro max, the display is really gorgeous and the processor A13 will remain the fastest, the battery is really good for me as very heavy user"
+828,#DESIGN#SCREEN,mention,jev_extra,False,0.84,False,"US Version 6GB Standard? Worth it to upgrade from S8+, I slept on the S9+ because it was too different externally, just internally."
+843,#DESIGN#SCREEN,mention,jev_extra,False,0.72,False,The camera should have gone behind the screen.
+859,#DESIGN#SCREEN,mention,jev_extra,False,0.85,False,brilliant job by SAMSUNG. S10 is LOOKS promising
+862,#DESIGN#SCREEN,mention,jev_extra,False,0.85,False,Speaker on the right bottom and the selfie camera on the top right.... U will cry and so disturbing when u gaming and video.. what a shame and failed design big brand Samsung! This is a simple knowledge how u don't know that! OMG!
+867,#DESIGN#SCREEN,mention,jev_extra,False,0.71,False,"Tried the S10, not impressed. Seems a lot like my S9, but it is even taller."
+909,#DESIGN#SCREEN,mention,jev_extra,False,0.58,False,"Secondly, the notification light. The notification light is a concern for me as I used to judge my notifications with the color of notification light. Now it's not there anymore."
+933,#DESIGN#SCREEN,mention,jev_extra,False,0.9,True,"That is why I need bezel where all sensors, including notif.light, are in."
+957,#DESIGN#SCREEN,mention,jev_extra,False,0.66,False,The build quality is excellent.
+958,#DESIGN#SCREEN,mention,jev_extra,False,0.66,False,This device's build quality is excellent.
+965,#DESIGN#SCREEN,mention,jev_extra,False,0.69,False,"Just a tat smaller would have been better (S10e feels too cheap for the price). Too bad fingerprint reader is slow, but i don't use it anyway."
+979,#DESIGN#SCREEN,mention,jev_extra,False,0.82,False,"S10 is way ahead regarding cameras, memory, screen, speakers...about everything."
+982,#DESIGN#SCREEN,mention,jev_extra,False,0.62,False,Everything Looks Bad Except To Be Honest The Benchmark Is On Top Of All Device!
+998,#DESIGN#SCREEN,mention,jev_extra,False,0.92,True,"Same here bro, i also like iphone xr look better"
+1004,#DESIGN#SCREEN,mention,jev_extra,False,0.91,True,it looks great. Will have to wait for some real reviews until jumping to conclusions.
+1018,#DESIGN#SCREEN,mention,jev_extra,False,0.78,False,Everything looks cool but the price and size of the phone's HUGE!!!
+1028,#DESIGN#SCREEN,mention,jev_extra,False,0.62,False,"Moreover, the battery life is extremely good. Gives you a full day from average to moderate use. The only downside is it's bulkiness. Rest, it's a good package."
+1034,#DESIGN#SCREEN,mention,jev_extra,False,0.9,True,This is awful. Looks like a kids phone
+1036,#DESIGN#SCREEN,mention,jev_extra,False,0.66,False,I wonder who will spend all that money on the model that makes them look like they're too poor to afford the real thing
+1067,#DESIGN#SCREEN,mention,jev_extra,False,0.94,True,I love this iPhone. Cool color especially the coral.
+1068,#DESIGN#SCREEN,mention,jev_extra,False,0.82,False,"Much better priced, all I need, bigger screen and better battery life - no choice!. Cant wait"
+1084,#DESIGN#SCREEN,mention,jev_extra,False,0.61,False,"Very Big and heavy. If Apple doesnt bring a smaller, lighter phone in the near future, bye bye iPhone. I want a phone with maximum height of 142 cm and no more than 160 gr."
+1089,#DESIGN#SCREEN,mention,jev_extra,False,0.9,True,this phone lacks the basics of smartphone no fingerprint sensor no full hd display and no super amoled no micro sd 
+1093,#DESIGN#SCREEN,mention,jev_extra,False,0.55,False,This phone is very big and heavy. 
+1096,#DESIGN#SCREEN,mention,jev_extra,False,0.55,False,This phone is sadly too big for my hands. Will stay with my iPhone 7 until the 8 or X are cheap used.
+1097,#DESIGN#SCREEN,mention,jev_extra,False,0.75,False,"Simple, compact and hi Tech"
+50,#DESIGN#SCREEN,mention,jev_missed,True,0.02,True,higher price 64GB $999
+267,#DESIGN#SCREEN,mention,jev_missed,True,0.28,False,"Thousands employees working full year and using multi-million dollars to come conclusions, no design changes. Money wasting company."
+277,#DESIGN#SCREEN,mention,jev_missed,True,0.44,False,very small battery in contrast with its display . it needs twice battery charge in a day in normal use.
+621,#DESIGN#SCREEN,mention,jev_missed,True,0.04,True,Amazing device
+874,#DESIGN#SCREEN,mention,jev_missed,True,0.43,False,"Galaxy s10 is perfect size for me, but I'm worried about the battery"
+880,#DESIGN#SCREEN,mention,jev_missed,True,0.2,False,"Size, is perfect !!! And it is realy fantastic"
+886,#DESIGN#SCREEN,mention,jev_missed,True,0.18,False,"guys its so disappointed to see all reviews focusing on the s10+ only and no one mention the perfect size s10 , i myself was looking for battery test as this is my main concern with the normal s10 , but end up hopeless and order it myself , hope the battery is onbar/near the s10+"
+994,#DESIGN#SCREEN,mention,jev_missed,True,0.38,False,Very best phone with best size
+436,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.70),False,"The only dated parts of the phone are the display and the notch, neither of which are awful."
+530,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.10),False,the design innovation and features RIP apple.
+551,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.13),False,You don't change the design in the sake of changing.
+621,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.69),False,Amazing device
+699,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.01),False,the NOTCH just got wider!!!!
+878,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.98),True,The front camera looks quite small and nice in preview
+1025,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.99),True,"I used to be skeptical about the resolution being 720p but once i bought and use it, you can't even tell the difference."
+1030,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.36),False,"better camera and specs etc,except the bezels but its not that big of a difference, better battery life"
+1073,#DESIGN#SCREEN,sentiment,negative->positive,negative,positive (0.21),False,Only hd
+49,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.70),False,bezels less desgin
+50,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.65),False,higher price 64GB $999
+58,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.03),False,good front design and an odd looking back camera
+145,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.33),False,"A lot of people live the design. Personally, on the internet I think it looks nice enough, though if place it behind both the galaxy phones and the mi mix. In real life I might like it more, I didn't like how tall and thin the s8 was. Plenty of people will consider this the most beautiful phone - especially those with Samsung hate."
+157,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (1.00),True,Easily the ugliest phone ever made.
+277,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.76),False,very small battery in contrast with its display . it needs twice battery charge in a day in normal use.
+508,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.99),True,Its not a 120hz display its a 60hz display with 120hz of touch-sensing
+509,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.99),True,"It's just an iPhone XS with third camera and ""better"" display."
+689,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.99),True,"Wow, an iphone with OLED display. Took them a while."
+1081,#DESIGN#SCREEN,sentiment,positive->negative,positive,negative (0.57),False,Yes but past 300ppi your eye can’t see the individual pixels unless you use your phone at 2cm from your face like an idiot
+79,#FEATURE,mention,jev_extra,False,0.73,False,"Great innovation on face recognition but screen looks weird while playing videos. Moreover, looks like overpriced."
+88,#FEATURE,mention,jev_extra,False,0.6,False,"Disappointed, Nothing new in this phones"
+91,#FEATURE,mention,jev_extra,False,0.68,False,"Ugly design, the iPhone 8 is better, this one is fat and weird."
+94,#FEATURE,mention,jev_extra,False,0.62,False,"I love the design of that thing. Its perfect size, flat screen and rounded stainless steel sides should make for a great in hands feeling and probably user experience. Would be buying one instantly if it was priced competively."
+95,#FEATURE,mention,jev_extra,False,0.95,True,An over priced junk has arrived again The iphone X . the touch id should have be there . for this price . 1150 bucks .
+108,#FEATURE,mention,jev_extra,False,0.55,False,Huge side bezels
+133,#FEATURE,mention,jev_extra,False,0.66,False,Im still sceptical about the bezel. Hands on video shown that it is thicker than it seem. Or maybe it just the lighting. Does this really count as bezel less? The chassis is kinda fat too. Hmm. Hope they can improve the design next year. Just a little bit more. Seriously. Just a little tiny bit more improvement it can be perfect.
+138,#FEATURE,mention,jev_extra,False,0.83,False,"Ridiculously overpriced and nothing new. except for the new built in apps which android users have been using since years. just a modified version of talking tom. $999, way tooo much for such a phone"
+145,#FEATURE,mention,jev_extra,False,0.67,False,"A lot of people live the design. Personally, on the internet I think it looks nice enough, though if place it behind both the galaxy phones and the mi mix. In real life I might like it more, I didn't like how tall and thin the s8 was. Plenty of people will consider this the most beautiful phone - especially those with Samsung hate."
+152,#FEATURE,mention,jev_extra,False,0.64,False,Well I am an Apple lover . so many mouths and so many opinions . For me there is no one on earth who can challenge apple security system. APPLE is the best . Apple X is the best so far. waiting and dying to buy one for me.
+181,#FEATURE,mention,jev_extra,False,0.96,True,best phone I've ever used. swipe up for home button and face id works flawless even in the dark. phone is a must buy for iphone users.
+186,#FEATURE,mention,jev_extra,False,0.89,False,"Really fast and fluid phone, which is to be expected at this price range, but still, the notch is in some people's opinion ugly. But people can always find something wrong with any product."
+191,#FEATURE,mention,jev_extra,False,0.96,True,Apple x not as well as we thought. Home button is the breath of apple apple 8 is good but older design is not acceptable. Basically apple 8 should have apple x design. Then it would be surely popular at every where. iOS 11 firmware should be improve with give option for direct call in third party dialer. It's very annoying ask confirmation call. Sometimes it's not good. Hope apple will update it sure.
+193,#FEATURE,mention,jev_extra,False,0.92,True,Faceid is fast and the screen... omg the screen!!!!! Perfect!
+197,#FEATURE,mention,jev_extra,False,0.92,True,Apple always put a iPhone with almost same features as all smartphone have but overpriced its phone ....we can also get Ai . Face recognition in other phones in about 15000 then why waste on iPhone
+209,#FEATURE,mention,jev_extra,False,0.94,True,"my new iPhone x just arrived,, smooth ,, fast and lovely,, no lag what so ever,, can use it with one hand"
+237,#FEATURE,mention,jev_extra,False,0.94,True,"I have become a fan from iPhone 6S Plus onwards and on 14th got the iPhone X. In one word, its an experience. The mother of all phones, really. Its insanely fast and smooth. Multitasking and flips over tasks or apps very good. "
+244,#FEATURE,mention,jev_extra,False,0.5,False,the notch sometimes makes me feel bad
+255,#FEATURE,mention,jev_extra,False,0.56,False,The Apple phones are getting worse and dearer oh my android phones have all this and much more as I've realised recently
+264,#FEATURE,mention,jev_extra,False,0.93,True,"iphone price is acceptable, but iphone very shameful and also no special feature.......and heavy bulky weight"
+281,#FEATURE,mention,jev_extra,False,0.78,False,"Screen is great, very bright and sharp. Video playback is near perfect. Body size is just right. "
+286,#FEATURE,mention,jev_extra,False,0.62,False,Sorry iPhone your notch is just annoying. Can you just make your phone without a notch?
+306,#FEATURE,mention,jev_extra,False,0.5,False,"Notch - may be it is obtrusive for some, but it is not obstructing me. Got used to it."
+308,#FEATURE,mention,jev_extra,False,0.51,False,"phone nowadays is getting slow when it comes to innovations. Globally speaking, top smartphones are samsung and huawei. It shows to the market that iphone is not the usual iphone anymore."
+319,#FEATURE,mention,jev_extra,False,0.94,True,The phone is really fast comparing with other old models.
+320,#FEATURE,mention,jev_extra,False,0.52,False,The camera is fantastic and the beauty mode in selfie is not weird as I found on Samsung or Huawei.
+353,#FEATURE,mention,jev_extra,False,0.5,False,Still the fucking notch.
+356,#FEATURE,mention,jev_extra,False,0.52,False,still no full HD display in 2019 lmao how are they getting away with that without getting shit on by everyone
+373,#FEATURE,mention,jev_extra,False,0.62,False,The main problems are that iPhone 11 screen is not OLED and you cannot watch 1080p YouTube videos on it
+375,#FEATURE,mention,jev_extra,False,0.51,False,a bit smaller notch. a little bit.
+380,#FEATURE,mention,jev_extra,False,0.86,False,"Well, dual camera, improved IP68, and the A13 are simply awesome"
+381,#FEATURE,mention,jev_extra,False,0.64,False,"Another dealbreaker is the screen resolution, you can't even do social media at full quality,"
+438,#FEATURE,mention,jev_extra,False,0.59,False,You'll also be giving up the telephoto camera for an ultra-wide angle camera
+446,#FEATURE,mention,jev_extra,False,0.81,False,iphone is smoother
+464,#FEATURE,mention,jev_extra,False,0.86,False,"I agree iPhone 11 is powerful, good camera, no lag"
+465,#FEATURE,mention,jev_extra,False,0.93,True,"iPhone11 is efficient, it can even navigate and charge fully using a car 5watt charger."
+472,#FEATURE,mention,jev_extra,False,0.54,False,Biggest bezels on the latest phones can be found on iphones
+483,#FEATURE,mention,jev_extra,False,0.53,False,Should have put an oled in this phone
+485,#FEATURE,mention,jev_extra,False,0.75,False,this is the most powerful smartphone on the market right now and it performs like a pro
+492,#FEATURE,mention,jev_extra,False,0.73,False,"Face ID or not, that is one ugly notch."
+508,#FEATURE,mention,jev_extra,False,0.71,False,Its not a 120hz display its a 60hz display with 120hz of touch-sensing
+511,#FEATURE,mention,jev_extra,False,0.85,False,"this is an absolutely overpriced shit.... even after this huge price tag what you'll get is 18w fast charging when rest of the world is using 25w or higher, 2x optical zoom when other companies have reached 5x,10x,....seriously apple...are you kidding?"
+517,#FEATURE,mention,jev_extra,False,0.58,False,Thats huge notch. while other brands try reduce notch size
+531,#FEATURE,mention,jev_extra,False,0.91,True,Samsung s10e is 400$ cheaper and 38 gr lighter with the same size
+532,#FEATURE,mention,jev_extra,False,0.52,False,"Yeah, the iPhone 11 keeps the notch. l hates the iPhone notch."
+533,#FEATURE,mention,jev_extra,False,0.68,False,hey need reduce the notch. Too big for 2019 phone
+543,#FEATURE,mention,jev_extra,False,0.57,False,Just wish they got rid of the notch.
+544,#FEATURE,mention,jev_extra,False,0.82,False,it has nfc?
+566,#FEATURE,mention,jev_extra,False,0.91,True,It is the fastest smartphone ever. Think about reality insted of spec sheets.
+567,#FEATURE,mention,jev_extra,False,0.77,False,the real compact phone!!
+591,#FEATURE,mention,jev_extra,False,0.87,False,"new cameras, but can't do 8K30 video"
+602,#FEATURE,mention,jev_extra,False,0.95,True,"Radiation level is beyond threshold in the new iPhone 11 (Pro too), even without any data connection. Also, support forums at apple site have gone nuts over heating issues, draining batteries, blurry wide-angle camera, etc. Even a premium brand is still far from perfection."
+603,#FEATURE,mention,jev_extra,False,0.59,False,"Camera is not extraordinary, does not let you use night mode on wide angle camera.... huawei let's you."
+637,#FEATURE,mention,jev_extra,False,0.52,False,It has almost nothing new and uglier design.
+638,#FEATURE,mention,jev_extra,False,0.6,False,Why do they keep this old notch and screens
+696,#FEATURE,mention,jev_extra,False,0.68,False,Too big and akward notch ... backside cameras looks like tripple barrel gun
+697,#FEATURE,mention,jev_extra,False,0.88,False,I will never change my android for an iPhone they don't have no difference from the android the system that iPhone are using android did have it first very disappointed
+713,#FEATURE,mention,jev_extra,False,0.85,False,Spider's eyes low spec. Worst update.
+739,#FEATURE,mention,jev_extra,False,0.55,False,Bezel are even thicker and notch
+745,#FEATURE,mention,jev_extra,False,0.72,False,"For the people who use it for the ecosystem and fluidity, I just don't think it's worth it just for that considering the price you're paying for it"
+749,#FEATURE,mention,jev_extra,False,0.5,False,"But, iPhone 11 has ultra-wide camera too"
+764,#FEATURE,mention,jev_extra,False,0.67,False,Apple invented notch but don't know how to remove the notch
+774,#FEATURE,mention,jev_extra,False,0.97,True,4gb of ram at that price!??? I can find a phone with 8gb at over half the price or I can build a gaming pc with 4x times amount of the ram. So over priced
+797,#FEATURE,mention,jev_extra,False,0.89,False,"Fastest smartphone on the planet, plain and simple.."
+803,#FEATURE,mention,jev_extra,False,0.97,True,If only there was a 1TB storage and 12GB RAM variant of the smaller phone.
+804,#FEATURE,mention,jev_extra,False,0.72,False,Why FM radio in USA & Canada only?
+823,#FEATURE,mention,jev_extra,False,0.93,True,You can stick a s7 edge battery in a s6 which has a 3500 mah battery and the standard s6 battery is 2550
+827,#FEATURE,mention,jev_extra,False,0.96,True,Maybe the battery is not accurate. It must be more than 4000mah.
+828,#FEATURE,mention,jev_extra,False,0.84,False,"US Version 6GB Standard? Worth it to upgrade from S8+, I slept on the S9+ because it was too different externally, just internally."
+832,#FEATURE,mention,jev_extra,False,0.97,True,Yet again dissapointed to see smaller battery
+857,#FEATURE,mention,jev_extra,False,0.77,False,So far this beauty is first in the list for the my next phone. It checks all the boxes I need and the size is perfect
+863,#FEATURE,mention,jev_extra,False,0.87,False,Front camera location - bad. Top and right part of the screen from front camera seems to be useless! Only to drain battery! am I right? And no big improvements over S9 camera. Only wide angle and zoom lens were added. What about sensor? is it the same as on S9?
+864,#FEATURE,mention,jev_extra,False,0.6,False,Bottom Bezel more bigger than top
+867,#FEATURE,mention,jev_extra,False,0.88,False,"Tried the S10, not impressed. Seems a lot like my S9, but it is even taller."
+870,#FEATURE,mention,jev_extra,False,0.59,False,Wish the s10e too had the curved edge display like its big bro
+873,#FEATURE,mention,jev_extra,False,0.51,False,Rumors say they will keep the notch one more year :/
+880,#FEATURE,mention,jev_extra,False,0.82,False,"Size, is perfect !!! And it is realy fantastic"
+891,#FEATURE,mention,jev_extra,False,0.52,False,"Also back video does not support ultra wide recording, only to take photos. I would not say its a big improvement over s9"
+910,#FEATURE,mention,jev_extra,False,0.56,False,"The last one is the front camera live focus. If you select other options like zoom and the one ones, they lag a lotttttt."
+911,#FEATURE,mention,jev_extra,False,0.82,False,Have dual sim card model.
+912,#FEATURE,mention,jev_extra,False,0.85,False,Fast phone.
+927,#FEATURE,mention,jev_extra,False,0.9,True,"The image quality is not that impressive in low light... Video is very hazy in low light,Will it get any software updates? I am using it for 3 days"
+933,#FEATURE,mention,jev_extra,False,0.85,False,"That is why I need bezel where all sensors, including notif.light, are in."
+941,#FEATURE,mention,jev_extra,False,0.58,False,I am dissapointed with this 6.1' small screen and this punch hole. I was expecting hole-free screen.
+978,#FEATURE,mention,jev_extra,False,0.65,False,SAMSUNG phones camera app got a Pro mode. You can adjust the ISO manually like the Pro photographer.
+981,#FEATURE,mention,jev_extra,False,0.94,True,only stupid thing is with this phone its way to pricey with no fast charging as you after spend nearly £60 for you to have the fast charging to work
+994,#FEATURE,mention,jev_extra,False,0.8,False,Very best phone with best size
+999,#FEATURE,mention,jev_extra,False,0.95,True,"In my opinion it's absolutely crap phone. Huge (even wider than Galaxy Note), heavyweight with low resolution screen, and as usual for Apple - no 3.5 mm jac"
+1017,#FEATURE,mention,jev_extra,False,0.63,False,"can't play 1080p content because of its resolution, shame"
+1018,#FEATURE,mention,jev_extra,False,0.85,False,Everything looks cool but the price and size of the phone's HUGE!!!
+1040,#FEATURE,mention,jev_extra,False,0.56,False,The phone you buy will be supported for a long time.
+1058,#FEATURE,mention,jev_extra,False,0.55,False,The bezels on this phone are too thick.
+1065,#FEATURE,mention,jev_extra,False,0.71,False,"Xr Camera is same as Xs main camera, and with Smart HDR, it is actually a huge step forward."
+1078,#FEATURE,mention,jev_extra,False,0.61,False,ios is worse than android
+1097,#FEATURE,mention,jev_extra,False,0.54,False,"Simple, compact and hi Tech"
+1101,#FEATURE,mention,jev_extra,False,0.62,False,the bezels are so mich thicker than so many other phones.
+1104,#FEATURE,mention,jev_extra,False,0.54,False,"i have to tell you that screen on this guy is amazing.Color is not yellow like on other two its soo well calibrated and is brightest screen i have seen.Plus side is that feels much more fluent and smoother due to lower resolution,and i really dont notice pixel even though i have sharp eyes"
+3,#FEATURE,mention,jev_missed,True,0.21,False,Expected lot more from this phone but apple is every year the same with minimum differences. I am glad i am not an apple user any more.
+19,#FEATURE,mention,jev_missed,True,0.2,False,So much talking and nothing new... Bye Apple.
+54,#FEATURE,mention,jev_missed,True,0.11,False,"Honestly.... I have never ever really liked Apple do to the fact their phones always look the same. ( in my opinion ), But I have to admit, this phone is pretty nice!!!! And looks stunning"
+61,#FEATURE,mention,jev_missed,True,0.24,False,More innovation please. This phone does not set no future for phones. It is the same product as before. Nothing brilliantly amazing.
+72,#FEATURE,mention,jev_missed,True,0.43,False,"finally, best phone for all iphones(using amoled etc)!!!... iphone x has the same feature as s8.."
+123,#FEATURE,mention,jev_missed,True,0.48,False,"i like ios, and apple products, but this one is gross, its ok to pay a big price if its feature pack, but paying a big price just for a bezelless design? its gross, sorry apple, im not a sheep yet, waiting for next year again for some worthy phone to throw a $$$"
+139,#FEATURE,mention,jev_missed,True,0.08,True,Why apple always late. Same old stuff with huge anouncement.
+225,#FEATURE,mention,jev_missed,True,0.41,False,Apple always slow to get the technology and is always late.
+230,#FEATURE,mention,jev_missed,True,0.41,False,"I know the phone are not just specs in a paper. But they are performances an measures inside that are reflected in those ""papers"". So stop saying stupid things and get over it,"
+241,#FEATURE,mention,jev_missed,True,0.29,False,screen is the best
+242,#FEATURE,mention,jev_missed,True,0.25,False,speaker is so good
+248,#FEATURE,mention,jev_missed,True,0.22,False,iPhone is just an overpriced no Innovation phone.
+322,#FEATURE,mention,jev_missed,True,0.32,False,Awesome camera and functionalities. Cheers to Apple for their amazing innovation
+412,#FEATURE,mention,jev_missed,True,0.33,False,phone already last damn long
+445,#FEATURE,mention,jev_missed,True,0.35,False,So nicely built hardware
+455,#FEATURE,mention,jev_missed,True,0.46,False,the user interface because for me its really great so far
+498,#FEATURE,mention,jev_missed,True,0.28,False,Very bad design and specification
+505,#FEATURE,mention,jev_missed,True,0.4,False,Steve jobs must be shaking his head in the grave after launch of iPhone 11 pro. They are totally outdated in terms of design and features now
+523,#FEATURE,mention,jev_missed,True,0.16,False,"for the iOS,no one would think Apple is actually selling a good products to consumers."
+580,#FEATURE,mention,jev_missed,True,0.48,False,"closed apple ecosystem is like living in north korea, no freedom"
+744,#FEATURE,mention,jev_missed,True,0.37,False,I'm a fan of apple but the fact is we have been seeing same prior notch design for 3years Apple please bring some innovative design at least for new year incremental approach needs to be change now...we all want revolutionary steps from apple in next year..
+746,#FEATURE,mention,jev_missed,True,0.26,False,APPLE SELLS OLD TECHNOLOGIES AT LAST SEC INOVATION PRICES to loosers that now nothing outside Apple environment
+837,#FEATURE,mention,jev_missed,True,0.4,False,"love all the specs but fck with that price tag, it should cost 650$, 700$ top"
+892,#FEATURE,mention,jev_missed,True,0.32,False,s10 has great features and I do not regret swapping from iPhone to s10
+942,#FEATURE,mention,jev_missed,True,0.34,False,Samsung Is Undoubtedly High Functioning Affordable Phone Than Any Smart Phone.
+964,#FEATURE,mention,jev_missed,True,0.31,False,"Speakers are amazing, so is the screen and the cameras."
+982,#FEATURE,mention,jev_missed,True,0.32,False,Everything Looks Bad Except To Be Honest The Benchmark Is On Top Of All Device!
+995,#FEATURE,mention,jev_missed,True,0.34,False,Time to go to APPLE iOS!
+278,#FEATURE,sentiment,negative->positive,negative,positive (0.74),False,apple is good in everything except battery endurance
+474,#FEATURE,sentiment,negative->positive,negative,positive (0.53),False,"It contains only 3110mAH battery, and yet that battery capacity rivals phones with much much bigger batteries."
+518,#FEATURE,sentiment,negative->positive,negative,positive (0.38),False,Welcome to apple. We at apple would like to introduce the iphone 11 and for the first time in apple history we are giving you a fast charger in the box!
+539,#FEATURE,sentiment,negative->positive,negative,positive (0.38),False,"Dude, 5G isn't perfected yet. Apple is really smart for not including 5G on iPhone 11 series."
+599,#FEATURE,sentiment,negative->positive,negative,positive (0.06),False,The display super retina and cpu hexagon is extremely satisfy but still poor battery
+805,#FEATURE,sentiment,negative->positive,negative,positive (0.45),False,They giving the lower end phones bigger battery
+812,#FEATURE,sentiment,negative->positive,negative,positive (0.85),False,"The only weak point is the battery, otherwise this phone is solid"
+874,#FEATURE,sentiment,negative->positive,negative,positive (0.31),False,"Galaxy s10 is perfect size for me, but I'm worried about the battery"
+26,#FEATURE,sentiment,positive->negative,positive,negative (0.96),True,"to my eyes, this iphone is looking not as good as many androids out there. the only thing that keeps this phone from android is the software experience"
+111,#FEATURE,sentiment,positive->negative,positive,negative (1.00),True,So... they finally caught up in some 2014 android features and added a bigger screen. Innovation!
+126,#FEATURE,sentiment,positive->negative,positive,negative (1.00),True,"This phone looks interesting, its specs look very attractive, but it's not a device for small pockets and was never intended to be. I see there it's some kind of fashion to remove the middle button and extend the display. All right and fine, until we look at the display design, it looks like some kind of ass with those top display margins that show the status bar in the middle with the mic and camera.Again, it's expensive for what it brings.I say this especially by the display design and, of course, the 3.5 inch jack, that was never brought back."
+144,#FEATURE,sentiment,positive->negative,positive,negative (0.68),False,"The processor is a gamble. On paper, it looks to be a huge leap on existing tech. But you're correct that it's had limited testing, can't wait to see the heat generation."
+230,#FEATURE,sentiment,positive->negative,positive,negative (0.76),False,"I know the phone are not just specs in a paper. But they are performances an measures inside that are reflected in those ""papers"". So stop saying stupid things and get over it,"
+233,#FEATURE,sentiment,positive->negative,positive,negative (1.00),True,So much for iPhone X being the King of Speed.
+260,#FEATURE,sentiment,positive->negative,positive,negative (0.15),False,Finally 4g Ram
+261,#FEATURE,sentiment,positive->negative,positive,negative (0.95),True,The important differences between XS and X is number of sim card. Lol
+271,#FEATURE,sentiment,positive->negative,positive,negative (0.18),False,"There's only 2 things I like most about Iphone.. 1st is the IOS.. I have no doubt about it.. 2nd is the Video.. the image stabilizer.. Other than that,just the same"
+324,#FEATURE,sentiment,positive->negative,positive,negative (0.90),True,right now iOS does not have a system wide dark theme. but it is rumored that apple will implement dark theme in next release of ios 13 this year.
+388,#FEATURE,sentiment,positive->negative,positive,negative (0.02),False,iPhone 11 has 4GB RAM
+412,#FEATURE,sentiment,positive->negative,positive,negative (0.07),False,phone already last damn long
+523,#FEATURE,sentiment,positive->negative,positive,negative (0.99),True,"for the iOS,no one would think Apple is actually selling a good products to consumers."
+561,#FEATURE,sentiment,positive->negative,positive,negative (0.97),True,"4 GB RAM in 2019, for 1000$ phone, is insane even iOS is optimized, 3rd party apps are becoming more hungry."
+571,#FEATURE,sentiment,positive->negative,positive,negative (1.00),True,"That's a bit exaggerated, The redesign is terrible this year, battery is sub par by today's standards and only perk of getting new iPhone is A13 chip."
+589,#FEATURE,sentiment,positive->negative,positive,negative (1.00),True,It does have faster face I'd than my iPhone x but I cannot find any difference in the screens at all. Battery life is not what I thought it would be. There is no way that my iPhone 11 pro would last 4 hours longer than my iPhone x.
+593,#FEATURE,sentiment,positive->negative,positive,negative (0.50),False,"Dont expect 4 hours more screen-on time, noone said you would get that, 4 hours more is a best case scenario with varied usage. Build realistic expectations through understanding what youre reading."
+752,#FEATURE,sentiment,positive->negative,positive,negative (0.26),False,Don't mind them.iOS is ahead of Android like 10x far better. Android users including me should just accept it. Let everyone stay on their lane
+787,#FEATURE,sentiment,positive->negative,positive,negative (0.94),True,Much better if iphone have radio and dual sim
+815,#FEATURE,sentiment,positive->negative,positive,negative (0.92),True,"every phone which comes battery under 4000mah won't stand a chance in the competition who offers big battery. I can see people who buy below 4000mah phones will complain endurance, hardly a day or less than 10hours."
+834,#FEATURE,sentiment,positive->negative,positive,negative (0.92),True,battery is enough... you need one day full usage.... the next half day is useless...
+868,#FEATURE,sentiment,positive->negative,positive,negative (0.88),False,The chrome body around the phone looks old fashion. Can't see any reason to upgrade. But speaker still really good and loud.
+887,#FEATURE,sentiment,positive->negative,positive,negative (1.00),True,the battery life is one day no more with normal use
+902,#FEATURE,sentiment,positive->negative,positive,negative (0.02),False,"iPhones are just way better. No matter how many upgrades the galaxy models have, the software can ever compare to IOS in any iOS device"
+982,#FEATURE,sentiment,positive->negative,positive,negative (0.27),False,Everything Looks Bad Except To Be Honest The Benchmark Is On Top Of All Device!
+1091,#FEATURE,sentiment,positive->negative,positive,negative (0.84),False,The only good think about this phone is software and chipset
+1,#GENERAL,mention,jev_extra,False,0.83,False,Ugliest phone from apple i ever seen good job apple.
+3,#GENERAL,mention,jev_extra,False,0.95,True,Expected lot more from this phone but apple is every year the same with minimum differences. I am glad i am not an apple user any more.
+10,#GENERAL,mention,jev_extra,False,0.81,False,I am still happy with iPhone 6s Plus I am disappointed with the this years launch as well I don't think there is any changes in the iOS 11 as well
+18,#GENERAL,mention,jev_extra,False,0.79,False,Am i the only one who actually sees the bezels? They are Huge af!!! and no fingerprint under screen? yeah sure i give AROUND 1150euro for this! 10x apple... sucked even more!
+19,#GENERAL,mention,jev_extra,False,0.85,False,So much talking and nothing new... Bye Apple.
+21,#GENERAL,mention,jev_extra,False,0.9,True,Look at that ugly camera ; looks like traffic lights . The ugliest phone ever . Gzzz
+22,#GENERAL,mention,jev_extra,False,0.57,False,When i first saw the look i just thought it was fan made but when i actually found out it was official i was so disappointed. I'm against the bezel less phones especially when they come out looking as bad as this
+23,#GENERAL,mention,jev_extra,False,0.83,False,That is the ugliest phone ever made.
+26,#GENERAL,mention,jev_extra,False,0.57,False,"to my eyes, this iphone is looking not as good as many androids out there. the only thing that keeps this phone from android is the software experience"
+29,#GENERAL,mention,jev_extra,False,0.74,False,This is the most ugly phone i have ever seen.
+31,#GENERAL,mention,jev_extra,False,0.8,False,Looks like a cheap phone from china
+38,#GENERAL,mention,jev_extra,False,0.53,False,I'm not iPhone user or a fan.. iOS is very smooth and doesn't need much ram like android. It is well optimized. But apple could give more but they want to cut the cost everywhere and charge the most to take it the profit in large margin
+41,#GENERAL,mention,jev_extra,False,0.9,True,The not so essential phone. Horrible design. Nothing works in the looks department. From the proportions to the way the edges and screen blend into each other to the odd camera protrusion.
+46,#GENERAL,mention,jev_extra,False,0.56,False,hmm it's look like a super expensive android to me with a bunch of gimmicks noting new ooh there is facial recognition to it but sadly it failed at presentation and it supports wireless charging hmm also fast charging i think it should have it coz we all know.
+54,#GENERAL,mention,jev_extra,False,0.92,True,"Honestly.... I have never ever really liked Apple do to the fact their phones always look the same. ( in my opinion ), But I have to admit, this phone is pretty nice!!!! And looks stunning"
+57,#GENERAL,mention,jev_extra,False,0.75,False,Finally The Beast Revealed with well developed specs in Apple
+61,#GENERAL,mention,jev_extra,False,0.93,True,More innovation please. This phone does not set no future for phones. It is the same product as before. Nothing brilliantly amazing.
+62,#GENERAL,mention,jev_extra,False,0.68,False,"Too expensive for the specs, you can find other phones at much cheaper price with higher specs. 3gb ram seriously? flagship device at only 3gb ram..still bad battery ..subpar design. Only goodthing I can say would probably the iOs software looks and performs better."
+69,#GENERAL,mention,jev_extra,False,0.96,True,Without fingerprint scanner...... Worst iphone ever
+75,#GENERAL,mention,jev_extra,False,0.92,True,IOS is best all the way
+89,#GENERAL,mention,jev_extra,False,0.76,False,"This looks decent though, Just not enough to get me to switch"
+90,#GENERAL,mention,jev_extra,False,0.57,False,Not even in octa core. What do we expect from this
+91,#GENERAL,mention,jev_extra,False,0.6,False,"Ugly design, the iPhone 8 is better, this one is fat and weird."
+95,#GENERAL,mention,jev_extra,False,0.91,True,An over priced junk has arrived again The iphone X . the touch id should have be there . for this price . 1150 bucks .
+99,#GENERAL,mention,jev_extra,False,0.98,True,This is INNOVATION! Super AMOLED & Wireless charging! OMG Best PHONE EVER!! I love you apple thank you so much for these breathtaking novelty. I admire such innovative company. God bless you apple. Peace
+100,#GENERAL,mention,jev_extra,False,0.52,False,one thing that i realize in iphone is nothing but price
+109,#GENERAL,mention,jev_extra,False,0.91,True,"Too High and costly for its cost over features. Iphone X is not worth that amount, its just costly for the hype of the brand apple iphone thats all."
+113,#GENERAL,mention,jev_extra,False,0.51,False,Its all perfect but the most disgusting part is at the top where the front cams are. Its really annoying especially when it comes to me because i have an OCD (symmetrical) i prefer the infinity display. And I think iPhone X is fragile and definitely i'm gonna freak out if I accidentally drop it. It's Costly right?
+114,#GENERAL,mention,jev_extra,False,0.73,False,It will fail because they don't have a fingerprint scanner and face unlock is inefficient and garbage.
+123,#GENERAL,mention,jev_extra,False,0.88,False,"i like ios, and apple products, but this one is gross, its ok to pay a big price if its feature pack, but paying a big price just for a bezelless design? its gross, sorry apple, im not a sheep yet, waiting for next year again for some worthy phone to throw a $$$"
+126,#GENERAL,mention,jev_extra,False,0.67,False,"This phone looks interesting, its specs look very attractive, but it's not a device for small pockets and was never intended to be. I see there it's some kind of fashion to remove the middle button and extend the display. All right and fine, until we look at the display design, it looks like some kind of ass with those top display margins that show the status bar in the middle with the mic and camera.Again, it's expensive for what it brings.I say this especially by the display design and, of course, the 3.5 inch jack, that was never brought back."
+132,#GENERAL,mention,jev_extra,False,0.81,False,this is worth to buy for me. i have the money to buy every apple product. its not hard to spend my money to buy apple products.
+138,#GENERAL,mention,jev_extra,False,0.87,False,"Ridiculously overpriced and nothing new. except for the new built in apps which android users have been using since years. just a modified version of talking tom. $999, way tooo much for such a phone"
+139,#GENERAL,mention,jev_extra,False,0.51,False,Why apple always late. Same old stuff with huge anouncement.
+147,#GENERAL,mention,jev_extra,False,0.81,False,"Man design is ugly. Phone looks like someone bite top of the screen like is apple on back. To me it seems a worm slowly eating apple and soon or later this company will be sold or bancrupt. Its just asking too much,"
+157,#GENERAL,mention,jev_extra,False,0.69,False,Easily the ugliest phone ever made.
+166,#GENERAL,mention,jev_extra,False,0.77,False,"The A11 chip is super fast, even par with latest MacBook pro performance. this phone will be fresh for next 5 years (I derived this from my iPhone 5S bought 4 years back but still working great specifically super fast with latest iOS 11)"
+171,#GENERAL,mention,jev_extra,False,0.63,False,Screen is amazing. Face detection works almost flawlessly for me. Battery is a non issue. Works all day. Love the new gestures. No home button is perfect. Sound from the Lightning Earbuds is the best from Apple by FAR!!! Anything negative is more than likely bashing IMHO.
+172,#GENERAL,mention,jev_extra,False,0.64,False,Its contains lots of awesome features especially Face ID... It’s just too cool.. I used to face finger print detection problem while driving car.... typing password while driving is just too risky.. which now don’t bother me anymore
+173,#GENERAL,mention,jev_extra,False,0.86,False,"My only complaint is the price, Samsung and iPhone are amazing phones. one is good for this, the other one is good for that. stop the hate. but I do have to say that Apple is marking the price way to high."
+174,#GENERAL,mention,jev_extra,False,0.95,True,love this phone. Swipe up Home gesture is awesome.
+191,#GENERAL,mention,jev_extra,False,0.73,False,Apple x not as well as we thought. Home button is the breath of apple apple 8 is good but older design is not acceptable. Basically apple 8 should have apple x design. Then it would be surely popular at every where. iOS 11 firmware should be improve with give option for direct call in third party dialer. It's very annoying ask confirmation call. Sometimes it's not good. Hope apple will update it sure.
+193,#GENERAL,mention,jev_extra,False,0.5,False,Faceid is fast and the screen... omg the screen!!!!! Perfect!
+197,#GENERAL,mention,jev_extra,False,0.78,False,Apple always put a iPhone with almost same features as all smartphone have but overpriced its phone ....we can also get Ai . Face recognition in other phones in about 15000 then why waste on iPhone
+198,#GENERAL,mention,jev_extra,False,0.93,True,"Iphone X, failed design, overpriced, not so bezel-less, so sorry Apple, this time is the Era of Android phones."
+200,#GENERAL,mention,jev_extra,False,0.95,True,"the amoled is gorgeous, the camera is great, you dont even notice the notch (and it is small) so stop complaining people, apple have made a really nice gorgeous phone."
+210,#GENERAL,mention,jev_extra,False,0.68,False,"Hardware is unbelievable. Now if only they can improve iOS 11, it would truly be the greatest device ever."
+216,#GENERAL,mention,jev_extra,False,0.66,False,"The A11 is a six-core, remember that adding dual-core to iPhone is not like adding dual-core laptops and requires a very accurate processor design. The dual-core processor features Performance and high-performance quad-core processors to greatly increase the speed and performance of this mobile device. Conclusion This powerful processor, high performance, and the ability of this smartphone to use various applications."
+218,#GENERAL,mention,jev_extra,False,0.5,False,"using Face ID, it feels like future in your hand. And shows how far these smartphones have gone."
+221,#GENERAL,mention,jev_extra,False,0.8,False,Getting those issues is around same than winning lottery. Haven't had Any issues and the performance is perfect and with 120hz touch input this thing is supersmooth.
+222,#GENERAL,mention,jev_extra,False,0.92,True,"I lost my hope with apple every year i am waiting for something new , but the phone doesn't change same thing with old features andriod has ahead months and years before."
+225,#GENERAL,mention,jev_extra,False,0.78,False,Apple always slow to get the technology and is always late.
+235,#GENERAL,mention,jev_extra,False,0.73,False,Just take a look at the back of the iPad mini and them look at the iPhone x front . Design will be clearly understandable .x is very beautiful but it's not worth the price .
+248,#GENERAL,mention,jev_extra,False,0.94,True,iPhone is just an overpriced no Innovation phone.
+254,#GENERAL,mention,jev_extra,False,0.82,False,"Too expensive for that money, you must have very unhappy person to buy this phone to compensate your happiness. It may be good, but for wannabe-s."
+267,#GENERAL,mention,jev_extra,False,0.6,False,"Thousands employees working full year and using multi-million dollars to come conclusions, no design changes. Money wasting company."
+279,#GENERAL,mention,jev_extra,False,0.87,False,"what is iphone???
+MONEY SUCKER"
+280,#GENERAL,mention,jev_extra,False,0.54,False,"Same ugly phone, higher price..."
+282,#GENERAL,mention,jev_extra,False,0.93,True,"The phone comes a very cohesive package in terms of hardware and software, design and function. Not perfect but no phone is."
+288,#GENERAL,mention,jev_extra,False,0.98,True,Best Phone i have ever used
+293,#GENERAL,mention,jev_extra,False,0.87,False,I am on the 12.1 IOS update on 10/30/2018. So far I am delighted with my phone. Lots of settings and easy to navigate. The display is sharp and true in color.
+308,#GENERAL,mention,jev_extra,False,0.86,False,"phone nowadays is getting slow when it comes to innovations. Globally speaking, top smartphones are samsung and huawei. It shows to the market that iphone is not the usual iphone anymore."
+313,#GENERAL,mention,jev_extra,False,0.78,False,Perfect for grip and superb performance and looks apple did an amazing job again
+316,#GENERAL,mention,jev_extra,False,0.51,False,"This is the first iPhone ive ever bought, performance is great and UI is nice and fluid."
+317,#GENERAL,mention,jev_extra,False,0.9,True,This phone is just not worth the price
+322,#GENERAL,mention,jev_extra,False,0.59,False,Awesome camera and functionalities. Cheers to Apple for their amazing innovation
+326,#GENERAL,mention,jev_extra,False,0.83,False,iPhones are only good for their design that's it
+327,#GENERAL,mention,jev_extra,False,0.9,True,"Apple is ahead of every Android smartphone with a two years ahead unbeatable chipset ( A12 bionic) better and faster updates, better software optimizations and better quality with stereo speakers, amazing display and high quality materials "
+333,#GENERAL,mention,jev_extra,False,0.6,False,This seems to be the ugliest Apple product for decades.
+338,#GENERAL,mention,jev_extra,False,0.53,False,I thought the screen resolution would improve to full HD. Still a ripped off with that high price
+339,#GENERAL,mention,jev_extra,False,0.9,True,this phone is a joke LCD screen no fullhd resolution 4GB ram
+340,#GENERAL,mention,jev_extra,False,0.75,False,"Seriously, I can't see any feature that will trick or make people to buy or upgrade to this."
+352,#GENERAL,mention,jev_extra,False,0.82,False,you know the specs are trash. Apple is brand quality and brand quality only
+357,#GENERAL,mention,jev_extra,False,0.8,False,Omg even xiaomi mi 9t is better then this
+362,#GENERAL,mention,jev_extra,False,0.72,False,Insane price for only $700. This model will be a top seller no doubt.
+364,#GENERAL,mention,jev_extra,False,0.5,False,Yeah. It's still a trash spec
+379,#GENERAL,mention,jev_extra,False,0.71,False,There is no doubt app system and overall user experience in better on apple
+386,#GENERAL,mention,jev_extra,False,0.67,False,This would have been a really good phone if it were OLED screen
+396,#GENERAL,mention,jev_extra,False,0.89,False,iphone with ios is always good for long term
+403,#GENERAL,mention,jev_extra,False,0.7,False,iOS is simply magical.
+420,#GENERAL,mention,jev_extra,False,0.92,True,screen resolution is definitely a factor but overall i am satisfied
+430,#GENERAL,mention,jev_extra,False,0.92,True,would highly recommend it to all people looking for a flagship that would not break their bank
+437,#GENERAL,mention,jev_extra,False,0.88,False,"The faster processor, better cameras, better battery life, extra gigabyte of RAM, and other things make this a good buy."
+450,#GENERAL,mention,jev_extra,False,0.52,False,"It got flagship specs, top camera, apple care support, best app selection, good for 5 years or more, no worries on apps"
+473,#GENERAL,mention,jev_extra,False,0.61,False,Its hardware and software works seemlessly together to provide the premium feel.
+502,#GENERAL,mention,jev_extra,False,0.52,False,I am talking about apple and it is overpriced. With no advanced features
+505,#GENERAL,mention,jev_extra,False,0.83,False,Steve jobs must be shaking his head in the grave after launch of iPhone 11 pro. They are totally outdated in terms of design and features now
+511,#GENERAL,mention,jev_extra,False,0.79,False,"this is an absolutely overpriced shit.... even after this huge price tag what you'll get is 18w fast charging when rest of the world is using 25w or higher, 2x optical zoom when other companies have reached 5x,10x,....seriously apple...are you kidding?"
+514,#GENERAL,mention,jev_extra,False,0.94,True,Totally disappointed. Ugly phone of the year.
+523,#GENERAL,mention,jev_extra,False,0.88,False,"for the iOS,no one would think Apple is actually selling a good products to consumers."
+524,#GENERAL,mention,jev_extra,False,0.83,False,So Ugly on it camera.nothing special compare to Xs..dunno what Tim Cook and the team is doing...nothing special except for the camera part...no longer the leader in Tech Industry... announcement damn boring...the whole world could see the actual design even before apple announced it yesterday...are they own the patents or somebody else?
+527,#GENERAL,mention,jev_extra,False,0.83,False,"At least it finally has a triple camera setup, but the notch is still horrendous. If this was their low end offering i'd consider this against something like mi 9 or mi 9t pro, but at a thousand bucks this is a hard pass - can do so much better for that kind of money."
+528,#GENERAL,mention,jev_extra,False,0.6,False,"t's a good change so far. Great to know that it has an ultrawide lens. selfie video with slow motion, selfie 4k video wide lens, and ultrawide. So much packed for the same price as last year."
+530,#GENERAL,mention,jev_extra,False,0.55,False,the design innovation and features RIP apple.
+545,#GENERAL,mention,jev_extra,False,0.69,False,this new 11 series looks awful because of ugly back design and three cameras. Why too many cameras there is no need for three or two cameras one is enough.
+547,#GENERAL,mention,jev_extra,False,0.63,False,"I own an iPhone X right now, working excellent bought last August 2018 and battery life is 96%."
+553,#GENERAL,mention,jev_extra,False,0.92,True,"At the current state of the industry, Apple is feeling the market pressure from the Chinese brands. If they continued the 2-year-old design any further, the sales of iPhones would take a huge hit. Although the final product has turned out to be garbage, cooties to them for at least trying."
+560,#GENERAL,mention,jev_extra,False,0.55,False,2019 One Of The Worst Design In Apple..Really Disappointe.. Hate This
+562,#GENERAL,mention,jev_extra,False,0.91,True,Don't buy
+568,#GENERAL,mention,jev_extra,False,0.77,False,"But the design is horrible. I was waiting for iPhone 11 to show up. I just didn't believe the design pictures in the leaks, it turned out to be true. Really disappointed in Apple to come with such an ugly design in 2019."
+571,#GENERAL,mention,jev_extra,False,0.74,False,"That's a bit exaggerated, The redesign is terrible this year, battery is sub par by today's standards and only perk of getting new iPhone is A13 chip."
+572,#GENERAL,mention,jev_extra,False,0.95,True,Design is definetely better then brick. Innovation a lot better as it gives a feel of Philips Norelco Electric Shaver. Personally i would rate this phone very highly since it has 4k video recording front-back and still has 64gb option.
+578,#GENERAL,mention,jev_extra,False,0.95,True,I've grew up on windows machines. Made the switch to mac so for music production and as such have been immersed in the apple ecosystem. My last phone was the iphone xs 64gb. I decided to buy the s10+ on a whim and have been thoroughly impressed with the samsung. I am honestly not impressed with the iphone 11. Sure iOS offers a slick user experience but its not enough to justify apple ignoring the clear advantage the current android flagship phones have in terms of specs. Thumbs halfway down for me.
+580,#GENERAL,mention,jev_extra,False,0.69,False,"closed apple ecosystem is like living in north korea, no freedom"
+581,#GENERAL,mention,jev_extra,False,0.76,False,Very EXPENSIVE for almost Nothing! Apple is SIMPLY playing MIND GAME with Apple Fans. I think is not a Good Practice to Stay Ahead a Brand Ambassador
+585,#GENERAL,mention,jev_extra,False,0.75,False,"there is no need for bezels design wise. All of the future phones should be bezel-less. iphone 11 design looks ancient, outdated, useless, terrible, disgusting to me. If it was notch-less with full screen on the front, and have a good back design; I would pay a few hundreds more for iphone 11 pro max."
+590,#GENERAL,mention,jev_extra,False,0.93,True,Excellent phone good camera. Night mode is good but could be better. 
+602,#GENERAL,mention,jev_extra,False,0.79,False,"Radiation level is beyond threshold in the new iPhone 11 (Pro too), even without any data connection. Also, support forums at apple site have gone nuts over heating issues, draining batteries, blurry wide-angle camera, etc. Even a premium brand is still far from perfection."
+613,#GENERAL,mention,jev_extra,False,0.62,False,This is the second ugliest phone
+614,#GENERAL,mention,jev_extra,False,0.54,False,IPhone is making the ugliest smartphone
+616,#GENERAL,mention,jev_extra,False,0.79,False,Truth that you leave... It's the ugliest iPhone ever!
+657,#GENERAL,mention,jev_extra,False,0.55,False,the worst looking screen/phone ever
+658,#GENERAL,mention,jev_extra,False,0.77,False,omg so Apple really released this shit looking phone to its customers.
+660,#GENERAL,mention,jev_extra,False,0.86,False,The most ugliest phone ever made
+678,#GENERAL,mention,jev_extra,False,0.63,False,226g weight like a metal bricks??? the weight is about almost the mate 20X weight! Shame apple!!!
+680,#GENERAL,mention,jev_extra,False,0.71,False,most ugly phone on world
+684,#GENERAL,mention,jev_extra,False,0.6,False,worst looking phones ever
+691,#GENERAL,mention,jev_extra,False,0.83,False,this is the ugliest phone ever.
+698,#GENERAL,mention,jev_extra,False,0.61,False,ugly iphone.. same design with useless notch
+705,#GENERAL,mention,jev_extra,False,0.73,False,This design shows that Apple is totally out of ideas
+706,#GENERAL,mention,jev_extra,False,0.94,True,"Although the camera setup is not the most appealing one, it's still a beautiful and extremely capable phone."
+707,#GENERAL,mention,jev_extra,False,0.67,False,O boy ugliest iphone Ever. looks like spider eyes
+743,#GENERAL,mention,jev_extra,False,0.73,False,"Ok, i know that the optimisation is good and so is the ecosystem so, yeah fine, use iPhones."
+745,#GENERAL,mention,jev_extra,False,0.6,False,"For the people who use it for the ecosystem and fluidity, I just don't think it's worth it just for that considering the price you're paying for it"
+746,#GENERAL,mention,jev_extra,False,0.86,False,APPLE SELLS OLD TECHNOLOGIES AT LAST SEC INOVATION PRICES to loosers that now nothing outside Apple environment
+752,#GENERAL,mention,jev_extra,False,0.78,False,Don't mind them.iOS is ahead of Android like 10x far better. Android users including me should just accept it. Let everyone stay on their lane
+766,#GENERAL,mention,jev_extra,False,0.54,False,Still ugly still notch still stupid design and still 99.9% customer satisfaction
+774,#GENERAL,mention,jev_extra,False,0.55,False,4gb of ram at that price!??? I can find a phone with 8gb at over half the price or I can build a gaming pc with 4x times amount of the ram. So over priced
+798,#GENERAL,mention,jev_extra,False,0.85,False,I cant believe people still pay Apple's extortionate prices for sub-standard tech
+811,#GENERAL,mention,jev_extra,False,0.67,False,Bad battery and front camera looks annoying. Disappointed
+819,#GENERAL,mention,jev_extra,False,0.84,False,not worth it
+825,#GENERAL,mention,jev_extra,False,0.5,False,S10 just bring few features.
+839,#GENERAL,mention,jev_extra,False,0.65,False,I'm glad Samsung didn't take away the 3.5mm headphone jack and micro sd card slot. Way to go Samsung! I will stick with you.
+852,#GENERAL,mention,jev_extra,False,0.85,False,Looks like garbage.. No thank you
+854,#GENERAL,mention,jev_extra,False,0.66,False,It looks preety cool.
+857,#GENERAL,mention,jev_extra,False,0.88,False,So far this beauty is first in the list for the my next phone. It checks all the boxes I need and the size is perfect
+860,#GENERAL,mention,jev_extra,False,0.73,False,"very very costly cell phones, I am using S7 edge since last 4 years i am quite satisfied with it and do not need to change with new one. it is all vastage of mony."
+862,#GENERAL,mention,jev_extra,False,0.69,False,Speaker on the right bottom and the selfie camera on the top right.... U will cry and so disturbing when u gaming and video.. what a shame and failed design big brand Samsung! This is a simple knowledge how u don't know that! OMG!
+866,#GENERAL,mention,jev_extra,False,0.64,False,and the good part is that it has a headphone jack !!! totally worth the price
+868,#GENERAL,mention,jev_extra,False,0.51,False,The chrome body around the phone looks old fashion. Can't see any reason to upgrade. But speaker still really good and loud.
+880,#GENERAL,mention,jev_extra,False,0.6,False,"Size, is perfect !!! And it is realy fantastic"
+890,#GENERAL,mention,jev_extra,False,0.5,False,I almost ordered this one. I switched to S10+ for the poor S10 battery. Lower even than S8. They should have put at least 3700MAh in S10. I was so angry with Samsung that I almost give up on S10 for this reason. There are a lot of people that give up for good. Samsung lost some clients for this.
+895,#GENERAL,mention,jev_extra,False,0.59,False,Battery backup satisfactory. Camera very useful type. Good buy.
+918,#GENERAL,mention,jev_extra,False,0.62,False,the wide angle camera and the battery life is better than the s9 plus. I'm happy with my decision
+932,#GENERAL,mention,jev_extra,False,0.7,False,"Samsung Galaxy S10 launched without light LED notification. Without such feature, flagship may be called ""Samsung ship without Flag"". Hurry up Samsung before getting too late to loose your fans."
+937,#GENERAL,mention,jev_extra,False,0.54,False,SAMSUNG S10 also has a lot of problems especially the software.
+942,#GENERAL,mention,jev_extra,False,0.96,True,Samsung Is Undoubtedly High Functioning Affordable Phone Than Any Smart Phone.
+961,#GENERAL,mention,jev_extra,False,0.96,True,Best things of this phone is the display quality. Samsung has definitely kept its best display for its flagship devices. All in all I am really happy and satisfied with this device.
+962,#GENERAL,mention,jev_extra,False,0.64,False,Its a fail! What poor battery it has.
+979,#GENERAL,mention,jev_extra,False,0.56,False,"S10 is way ahead regarding cameras, memory, screen, speakers...about everything."
+999,#GENERAL,mention,jev_extra,False,0.97,True,"In my opinion it's absolutely crap phone. Huge (even wider than Galaxy Note), heavyweight with low resolution screen, and as usual for Apple - no 3.5 mm jac"
+1006,#GENERAL,mention,jev_extra,False,0.51,False,"every thing ok. but only the thing design, its looks same , only the different the camera structure, hopeless!"
+1010,#GENERAL,mention,jev_extra,False,0.94,True,Totally waste product an 700 dollar phone they can't even give an 1080p screen.
+1026,#GENERAL,mention,jev_extra,False,0.53,False,The thing costs $1150 and only has a 720p+ screen haha this is so overpriced
+1028,#GENERAL,mention,jev_extra,False,0.87,False,"Moreover, the battery life is extremely good. Gives you a full day from average to moderate use. The only downside is it's bulkiness. Rest, it's a good package."
+1031,#GENERAL,mention,jev_extra,False,0.98,True,It works great and from the processor to the camera i had nothing to say. Honestly I recommend this phone it’s absolutely fabulous. Thanks
+1036,#GENERAL,mention,jev_extra,False,0.52,False,I wonder who will spend all that money on the model that makes them look like they're too poor to afford the real thing
+1037,#GENERAL,mention,jev_extra,False,0.65,False,720 p display what the fun . iphone is cheating people
+1044,#GENERAL,mention,jev_extra,False,0.93,True,"on top of that the A12, the great camera and you have a clear winner. No wonder it's gonna sell great."
+1045,#GENERAL,mention,jev_extra,False,0.91,True,Incredible phone at this price and comes with an amazing screen
+1047,#GENERAL,mention,jev_extra,False,0.89,False,it's not worth buying. The pixel density is lower than average on flagship phones with Amoled displays.
+1051,#GENERAL,mention,jev_extra,False,0.75,False,750 dollar for a 720p phone lol. apple is living on the loyal sheep they harvested for years.
+1059,#GENERAL,mention,jev_extra,False,0.78,False,"Xr LCD, one camera, 64 GB, camera bump, NOTCH for 850 euro. NEVER"
+1068,#GENERAL,mention,jev_extra,False,0.79,False,"Much better priced, all I need, bigger screen and better battery life - no choice!. Cant wait"
+1084,#GENERAL,mention,jev_extra,False,0.76,False,"Very Big and heavy. If Apple doesnt bring a smaller, lighter phone in the near future, bye bye iPhone. I want a phone with maximum height of 142 cm and no more than 160 gr."
+1089,#GENERAL,mention,jev_extra,False,0.56,False,this phone lacks the basics of smartphone no fingerprint sensor no full hd display and no super amoled no micro sd 
+1098,#GENERAL,mention,jev_extra,False,0.58,False,"From the reviews it almost sounded like we would be able to see individual pixels like a supermario game but the display is actually very decent, though the phone is costly overall. "
+1105,#GENERAL,mention,jev_extra,False,0.9,True,it’s a solid gaming phone with the best iOS battery life..
+34,#GENERAL,mention,jev_missed,True,0.13,False,Well said and honest
+36,#GENERAL,mention,jev_missed,True,0.17,False,That would be great
+64,#GENERAL,mention,jev_missed,True,0.2,False,Everything looks pretty exciting but I hate to say that top portion the screen & fat black edges around the screen looks really ugly
+79,#GENERAL,mention,jev_missed,True,0.27,False,"Great innovation on face recognition but screen looks weird while playing videos. Moreover, looks like overpriced."
+87,#GENERAL,mention,jev_missed,True,0.36,False,I'm skeptical about the future-proofing of this phone
+121,#GENERAL,mention,jev_missed,True,0.23,False,can't wait for this. omg going to be a long 2 months for me.
+140,#GENERAL,mention,jev_missed,True,0.36,False,Surely I will be going to buy this one. Price doesn't matter as easily available 12 months interest free installments here in Dubai on major credit cards.
+153,#GENERAL,mention,jev_missed,True,0.3,False,Thanks Apple
+228,#GENERAL,mention,jev_missed,True,0.43,False,"Everything which is expensive, definitely has nuisance value, do be it!"
+319,#GENERAL,mention,jev_missed,True,0.29,False,The phone is really fast comparing with other old models.
+446,#GENERAL,mention,jev_missed,True,0.24,False,iphone is smoother
+465,#GENERAL,mention,jev_missed,True,0.43,False,"iPhone11 is efficient, it can even navigate and charge fully using a car 5watt charger."
+471,#GENERAL,mention,jev_missed,True,0.47,False,I have used one week the results are satisfying
+481,#GENERAL,mention,jev_missed,True,0.24,False,You'll never understand the experience unless you've used an iPhone for considerable amount of time.
+499,#GENERAL,mention,jev_missed,True,0.47,False,"This phone is intriguing, I'm thinking about upgrading my phone so I'm looking forward to hearing reviews!"
+582,#GENERAL,mention,jev_missed,True,0.4,False,That's a very good decision and of course the XS has a much beautiful design!
+586,#GENERAL,mention,jev_missed,True,0.48,False,"Dont know how is Iphone 11 outdated, you probably never tried it in real life"
+595,#GENERAL,mention,jev_missed,True,0.43,False,Nothing new here moving on.
+663,#GENERAL,mention,jev_missed,True,0.18,False,"Nothing new here, same design, difference! is the back that is ugly AF sorry am not a hater I just gotta be honest looking"
+713,#GENERAL,mention,jev_missed,True,0.25,False,Spider's eyes low spec. Worst update.
+741,#GENERAL,mention,jev_missed,True,0.31,False,"There is very little difference between the 2018 and 2019 devices, both aesthetically and technically."
+814,#GENERAL,mention,jev_missed,True,0.45,False,Samsung offers luxury and comfort while Apple offers well-maintained secrecy
+889,#GENERAL,mention,jev_missed,True,0.38,False,"FM radio (USA & Canada only) = I am from Europe, then I don't buy this phone."
+912,#GENERAL,mention,jev_missed,True,0.46,False,Fast phone.
+957,#GENERAL,mention,jev_missed,True,0.11,False,The build quality is excellent.
+958,#GENERAL,mention,jev_missed,True,0.23,False,This device's build quality is excellent.
+998,#GENERAL,mention,jev_missed,True,0.26,False,"Same here bro, i also like iphone xr look better"
+1004,#GENERAL,mention,jev_missed,True,0.26,False,it looks great. Will have to wait for some real reviews until jumping to conclusions.
+1018,#GENERAL,mention,jev_missed,True,0.29,False,Everything looks cool but the price and size of the phone's HUGE!!!
+1040,#GENERAL,mention,jev_missed,True,0.37,False,The phone you buy will be supported for a long time.
+586,#GENERAL,sentiment,negative->positive,negative,positive (0.75),False,"Dont know how is Iphone 11 outdated, you probably never tried it in real life"
+64,#GENERAL,sentiment,positive->negative,positive,negative (0.81),False,Everything looks pretty exciting but I hate to say that top portion the screen & fat black edges around the screen looks really ugly
+79,#GENERAL,sentiment,positive->negative,positive,negative (0.99),True,"Great innovation on face recognition but screen looks weird while playing videos. Moreover, looks like overpriced."
+86,#GENERAL,sentiment,positive->negative,positive,negative (0.21),False,Brilliant device this time Apple did it again. Let´s see how it behaves on the reviews
+146,#GENERAL,sentiment,positive->negative,positive,negative (0.53),False,"Overall, I think the phone is nothing exciting, but it does compete with the best phones out there. Apples planned augmented reality future seems a bad choice to me, buy here's hoping they do something good with it. Hard to imagine anything not gimmicky, the tech has been around for ages without being useful. Hololens seems the way to go get"
+153,#GENERAL,sentiment,positive->negative,positive,negative (0.47),False,Thanks Apple
+169,#GENERAL,sentiment,positive->negative,positive,negative (0.20),False,A great phone for whom who can afford it. I really don`t recommend just because of the price tag.
+189,#GENERAL,sentiment,positive->negative,positive,negative (0.99),True,"Yeah,.there is no doubt the IPhone X is not the best IPhone to as regards to its capabilities "
+228,#GENERAL,sentiment,positive->negative,positive,negative (0.91),True,"Everything which is expensive, definitely has nuisance value, do be it!"
+229,#GENERAL,sentiment,positive->negative,positive,negative (1.00),True,"We somehow defend iPhone X only by good, better, best having no lingual expression of overall performance, but lip service."
+234,#GENERAL,sentiment,positive->negative,positive,negative (0.98),True,"I used it, great phone but needs more features! Not worth the money imho!"
+247,#GENERAL,sentiment,positive->negative,positive,negative (0.83),False,Phone is good but not worth at this price
+310,#GENERAL,sentiment,positive->negative,positive,negative (0.02),False,nice phone but I just cant come to spend $1625AUD on this phone...
+406,#GENERAL,sentiment,positive->negative,positive,negative (0.23),False,these are not so bad just overpriced
+481,#GENERAL,sentiment,positive->negative,positive,negative (0.16),False,You'll never understand the experience unless you've used an iPhone for considerable amount of time.
+566,#GENERAL,sentiment,positive->negative,positive,negative (0.64),False,It is the fastest smartphone ever. Think about reality insted of spec sheets.
+600,#GENERAL,sentiment,positive->negative,positive,negative (0.45),False,the iphone is best phone in the world but thats what apple fans think.
+612,#GENERAL,sentiment,positive->negative,positive,negative (0.10),False,"Nice phone, but this little beast will cost at least $1400 where I live haha man those prices."
+700,#GENERAL,sentiment,positive->negative,positive,negative (1.00),True,They have upped their game a little bit but kept the same design to be honest I would go for the huawei flagships and Samsung flagships instead.
+733,#GENERAL,sentiment,positive->negative,positive,negative (0.81),False,yes the best phone hands down just because they say it must be true
+988,#GENERAL,sentiment,positive->negative,positive,negative (1.00),True,Who will buy this piece of waste with such low resolution
+1003,#GENERAL,sentiment,positive->negative,positive,negative (0.99),True,iPhone 8 plus is much better in almost every aspect compare to this with same price
+1016,#GENERAL,sentiment,positive->negative,positive,negative (0.99),True,"Apple's been there, done that and moved on. Get with it."
+1018,#GENERAL,sentiment,positive->negative,positive,negative (0.76),False,Everything looks cool but the price and size of the phone's HUGE!!!
+31,#PRICE,mention,jev_extra,False,0.87,False,Looks like a cheap phone from china
+42,#PRICE,mention,jev_extra,False,0.94,True,no fingerprint waste of money
+46,#PRICE,mention,jev_extra,False,0.94,True,hmm it's look like a super expensive android to me with a bunch of gimmicks noting new ooh there is facial recognition to it but sadly it failed at presentation and it supports wireless charging hmm also fast charging i think it should have it coz we all know.
+50,#PRICE,mention,jev_extra,False,0.94,True,higher price 64GB $999
+92,#PRICE,mention,jev_extra,False,0.94,True,"Nothing special about this phone, as always a lot of noise and blaba. Just the name you have to pay for."
+94,#PRICE,mention,jev_extra,False,0.91,True,"I love the design of that thing. Its perfect size, flat screen and rounded stainless steel sides should make for a great in hands feeling and probably user experience. Would be buying one instantly if it was priced competively."
+113,#PRICE,mention,jev_extra,False,0.8,False,Its all perfect but the most disgusting part is at the top where the front cams are. Its really annoying especially when it comes to me because i have an OCD (symmetrical) i prefer the infinity display. And I think iPhone X is fragile and definitely i'm gonna freak out if I accidentally drop it. It's Costly right?
+126,#PRICE,mention,jev_extra,False,0.98,True,"This phone looks interesting, its specs look very attractive, but it's not a device for small pockets and was never intended to be. I see there it's some kind of fashion to remove the middle button and extend the display. All right and fine, until we look at the display design, it looks like some kind of ass with those top display margins that show the status bar in the middle with the mic and camera.Again, it's expensive for what it brings.I say this especially by the display design and, of course, the 3.5 inch jack, that was never brought back."
+140,#PRICE,mention,jev_extra,False,0.8,False,Surely I will be going to buy this one. Price doesn't matter as easily available 12 months interest free installments here in Dubai on major credit cards.
+150,#PRICE,mention,jev_extra,False,0.96,True,The Iphone X will be a complete waste of money
+196,#PRICE,mention,jev_extra,False,0.87,False,"I like apple but what preventing me from spending so much money for this phone is the ""battery"". What would you do with a nice phone that would just last for half a day. I'm a heavy user"
+198,#PRICE,mention,jev_extra,False,0.98,True,"Iphone X, failed design, overpriced, not so bezel-less, so sorry Apple, this time is the Era of Android phones."
+201,#PRICE,mention,jev_extra,False,0.85,False,"i bought my iPhone X on 4th of November and after using it for nearly 6 days, i came to this conclusion that this iPhone is not worth device by Apple"
+228,#PRICE,mention,jev_extra,False,0.91,True,"Everything which is expensive, definitely has nuisance value, do be it!"
+248,#PRICE,mention,jev_extra,False,0.98,True,iPhone is just an overpriced no Innovation phone.
+249,#PRICE,mention,jev_extra,False,0.93,True,For the same price as Iphone X and fast charging block. plus wireless charging doc and wireless headphones.
+255,#PRICE,mention,jev_extra,False,0.96,True,The Apple phones are getting worse and dearer oh my android phones have all this and much more as I've realised recently
+262,#PRICE,mention,jev_extra,False,0.92,True,"why apple iphone battery so poor......... samsung galaxy s8, s9 series better at its price point, quality"
+267,#PRICE,mention,jev_extra,False,0.81,False,"Thousands employees working full year and using multi-million dollars to come conclusions, no design changes. Money wasting company."
+298,#PRICE,mention,jev_extra,False,0.74,False,This phone has best camera in this price segment
+312,#PRICE,mention,jev_extra,False,0.85,False,"If you have the money get it, best phone on the market, don't believe...me get it play with it then come back and comment."
+372,#PRICE,mention,jev_extra,False,0.53,False,cheep look in back side
+389,#PRICE,mention,jev_extra,False,0.84,False,Apple should make some phone in low budgets.cause iPhone 6 is not available much.We need a budget phone.
+395,#PRICE,mention,jev_extra,False,0.64,False,Samsung is really good at photography and note 10 plus is similar price
+430,#PRICE,mention,jev_extra,False,0.96,True,would highly recommend it to all people looking for a flagship that would not break their bank
+437,#PRICE,mention,jev_extra,False,0.69,False,"The faster processor, better cameras, better battery life, extra gigabyte of RAM, and other things make this a good buy."
+527,#PRICE,mention,jev_extra,False,0.99,True,"At least it finally has a triple camera setup, but the notch is still horrendous. If this was their low end offering i'd consider this against something like mi 9 or mi 9t pro, but at a thousand bucks this is a hard pass - can do so much better for that kind of money."
+528,#PRICE,mention,jev_extra,False,0.96,True,"t's a good change so far. Great to know that it has an ultrawide lens. selfie video with slow motion, selfie 4k video wide lens, and ultrawide. So much packed for the same price as last year."
+561,#PRICE,mention,jev_extra,False,0.92,True,"4 GB RAM in 2019, for 1000$ phone, is insane even iOS is optimized, 3rd party apps are becoming more hungry."
+565,#PRICE,mention,jev_extra,False,0.73,False,It remind of cheap brands phone having 3 or 4 camera if this is the real pictures iphone shares must be falling rapidly
+585,#PRICE,mention,jev_extra,False,0.9,True,"there is no need for bezels design wise. All of the future phones should be bezel-less. iphone 11 design looks ancient, outdated, useless, terrible, disgusting to me. If it was notch-less with full screen on the front, and have a good back design; I would pay a few hundreds more for iphone 11 pro max."
+721,#PRICE,mention,jev_extra,False,0.62,False,Same 64 GB ROM to choose minimum and above (price tag)
+742,#PRICE,mention,jev_extra,False,0.79,False,Horrible. Enough reason to pass along with the price.
+763,#PRICE,mention,jev_extra,False,0.96,True,"Boring phone with big price, making the same thing every year"
+828,#PRICE,mention,jev_extra,False,0.59,False,"US Version 6GB Standard? Worth it to upgrade from S8+, I slept on the S9+ because it was too different externally, just internally."
+858,#PRICE,mention,jev_extra,False,0.86,False,Exynos 9820 sucks... Europeans are getting ripped off by Samsung
+895,#PRICE,mention,jev_extra,False,0.79,False,Battery backup satisfactory. Camera very useful type. Good buy.
+1002,#PRICE,mention,jev_extra,False,0.98,True,2018 n apple trying to sell a hd+ display for 750+ !! crazy
+1003,#PRICE,mention,jev_extra,False,0.91,True,iPhone 8 plus is much better in almost every aspect compare to this with same price
+1007,#PRICE,mention,jev_extra,False,0.96,True,"WTF!!!!!??? 800p screen in 2018? And on the 6.1"" screen? Also IPS for $900?? That's really crazy"
+1011,#PRICE,mention,jev_extra,False,0.95,True,Apple can't even provide an 1080p screen for this much huge upfront and simply names there worst product with there stupid name.!!!
+1036,#PRICE,mention,jev_extra,False,0.87,False,I wonder who will spend all that money on the model that makes them look like they're too poor to afford the real thing
+1041,#PRICE,mention,jev_extra,False,0.55,False,Iphone xr is the best low range phone
+1096,#PRICE,mention,jev_extra,False,0.67,False,This phone is sadly too big for my hands. Will stay with my iPhone 7 until the 8 or X are cheap used.
+1098,#PRICE,mention,jev_extra,False,0.92,True,"From the reviews it almost sounded like we would be able to see individual pixels like a supermario game but the display is actually very decent, though the phone is costly overall. "
+562,#PRICE,mention,jev_missed,True,0.07,True,Don't buy
+1062,#PRICE,mention,jev_missed,True,0.06,True,"The camera on the XR has a larger sensor than the iPhone cameras from last year, but loses the telephoto lens. Still, the larger sensor is a worthwhile trade-off IMO."
+1064,#PRICE,mention,jev_missed,True,0.02,True,"It has telephoto, but the main camera of X is worse."
+392,#PRICE,sentiment,negative->positive,negative,positive (0.80),False,iPhones are not expensive
+1062,#PRICE,sentiment,negative->positive,negative,positive (0.87),False,"The camera on the XR has a larger sensor than the iPhone cameras from last year, but loses the telephoto lens. Still, the larger sensor is a worthwhile trade-off IMO."
+362,#PRICE,sentiment,positive->negative,positive,negative (0.60),False,Insane price for only $700. This model will be a top seller no doubt.
+377,#PRICE,sentiment,positive->negative,positive,negative (0.98),True,its 699 us dollars so idk what your talking about
+385,#PRICE,sentiment,positive->negative,positive,negative (0.97),True,"Great specs, except of it's golden price"
+860,#PRICE,sentiment,positive->negative,positive,negative (0.98),True,"very very costly cell phones, I am using S7 edge since last 4 years i am quite satisfied with it and do not need to change with new one. it is all vastage of mony."
+875,#PRICE,sentiment,positive->negative,positive,negative (1.00),True,the price is way too expensive
+965,#PRICE,sentiment,positive->negative,positive,negative (1.00),True,"Just a tat smaller would have been better (S10e feels too cheap for the price). Too bad fingerprint reader is slow, but i don't use it anyway."
